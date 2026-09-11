@@ -9,3 +9,4 @@ Repositório oficial contendo artigos, documentos e produções intelectuais sob
 - Estado Laico e Espiritualidade
 - Antiautoritarismo e Estruturas de Poder
 - Crítica Socioeconômica e Multilateralismo
+  [https://doi.org/10.5281/zenodo.22286042](https://doi.org/10.5281/zenodo.22286042)
