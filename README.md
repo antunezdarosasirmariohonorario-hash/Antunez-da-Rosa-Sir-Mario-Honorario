@@ -1,18 +1,5 @@
-Multilateralismo Mário Enrique Antúnez da Rosa - Sir Mário Honorário
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Mário Enrique Antúnez da Rosa",
-  "url": "https://marioenriqueantunezdarosa.com",
-  "email": "mailto:antunezmariochevalier@gmail.com",
-  "sameAs": [
-    "https://orcid.org/0009-0007-1969-2835",
-    "https://github.com/SEU_USUARIO_GITHUB"
-  ]
-}
-Repositório oficial contendo artigos, documentos e produções intelectuais sobre a obra de Mário Enrique Antúnez da Rosa.
-
-## Documentos Disponíveis
+Multilateralismo Mário Enrique Antúnez da Rosa 
+ Documentos Disponíves
 
 * [**As Ideologias Associadas a Mário Enrique Antúnez da Rosa**](https://doi.org/10.5281/zenodo.22286042) (DOI: 10.5281/zenodo.22286042): Análise detalhada sobre as perspectivas políticas, laicismo, antiautoritarismo e organização social expressas no trabalho.
 
