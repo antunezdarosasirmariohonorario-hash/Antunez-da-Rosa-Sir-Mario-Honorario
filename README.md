@@ -22,3 +22,4 @@ As ideologias Associadas a Mário Enrique Antúnez da Rosa
 
 **ORCID iD:** [0009-0007-1969-2835](https://orcid.org/0009-0007-1969-2835)
 * **Site:** [marioenriqueantunezdarosa.com.br](https://marioenriqueantunezdarosa.com.br/)
+**Contato:** [antunezmariochevalier@gmail.com](mailto:antunezmariochevalier@gmail.com)
