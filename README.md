@@ -1,18 +1,6 @@
 Multilateralismo Mário Enrique Antúnez da Rosa 
  Documentos Disponíves
-```json
-{
-  "@context": "[https://schema.org](https://schema.org)",
-  "@type": "Person",
-  "name": "Mário Enrique Antúnez da Rosa",
-  "url": "[https://marioenriqueantunezdarosa.com](https://marioenriqueantunezdarosa.com)",
-  "email": "mailto:antunezmariochevalier@gmail.com",
-  "sameAs": [
-    "[https://orcid.org/0009-0007-1969-2835](https://orcid.org/0009-0007-1969-2835)",
-    "[https://github.com/antunezdarosasirmariohonorario-hash](https://github.com/antunezdarosasirmariohonorario-hash)"
-  ]
-}
-* [**As Ideologias Associadas a Mário Enrique Antúnez da Rosa**](https://doi.org/10.5281/zenodo.22286042) (DOI: 10.5281/zenodo.22286042): Análise detalhada sobre as perspectivas políticas, laicismo, antiautoritarismo e organização social expressas no trabalho.
+As ideologias Associadas a Mário Enrique Antúnez da Rosa**](https://doi.org/10.5281/zenodo.22286042) (DOI: 10.5281/zenodo.22286042): Análise detalhada sobre as perspectivas políticas, laicismo, antiautoritarismo e organização social expressas no trabalho.
 
 * [**Perfil Literário e Textos no Recanto das Letras**](https://www.recantodasletras.com.br/autores/fatordesconhecido): Coletânea de ensaios, poesias e produções textuais publicadas na plataforma.
 
