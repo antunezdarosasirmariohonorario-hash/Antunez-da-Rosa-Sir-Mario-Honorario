@@ -1,4 +1,4 @@
-# Antúnez da Rosa - Sir Mário Honorário
+MultilateralismoRosa - Sir Mário Honorário
 
 Repositório oficial contendo artigos, documentos e produções intelectuais sobre a obra de Mário Enrique Antúnez da Rosa.
 
@@ -17,3 +17,10 @@ Repositório oficial contendo artigos, documentos e produções intelectuais sob
 ## Perfil Acadêmico e Publicações Completas
 
 * **ORCID iD:** [https://orcid.org/0009-0007-1969-2835](https://orcid.org/0009-0007-1969-2835)
+---
+
+### 🔗 Identificação Acadêmica
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1969--2835-green?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1969-2835)
+
+**ORCID iD:** [0009-0007-1969-2835](https://orcid.org/0009-0007-1969-2835)
