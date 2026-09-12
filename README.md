@@ -24,3 +24,4 @@ Repositório oficial contendo artigos, documentos e produções intelectuais sob
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1969--2835-green?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1969-2835)
 
 **ORCID iD:** [0009-0007-1969-2835](https://orcid.org/0009-0007-1969-2835)
+**Website:** [marioenriqueantunezdarosa.com.br](https://marioenriqueantunezdarosa.com.br/)
