@@ -1,4 +1,4 @@
-MultilateralismoRosa - Sir Mário Honorário
+Multilateralismo Mário Enrique Antúnez da Rosa - Sir Mário Honorário
 
 Repositório oficial contendo artigos, documentos e produções intelectuais sobre a obra de Mário Enrique Antúnez da Rosa.
 
