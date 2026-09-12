@@ -1,6 +1,7 @@
 Multilateralismo Mário Enrique Antúnez da Rosa 
  Documentos Disponíves
-As ideologias Associadas a Mário Enrique Antúnez da Rosa**](https://doi.org/10.5281/zenodo.22286042) (DOI: 10.5281/zenodo.22286042): Análise detalhada sobre as perspectivas políticas, laicismo, antiautoritarismo e organização social expressas no trabalho.
+As ideologias Associadas a Mário Enrique Antúnez da Rosa
+(https://doi.org/10.5281/zenodo.22286042) (DOI: 10.5281/zenodo.22286042): Análise detalhada sobre as perspectivas políticas, laicismo, antiautoritarismo e organização social expressas no trabalho.
 
 * [**Perfil Literário e Textos no Recanto das Letras**](https://www.recantodasletras.com.br/autores/fatordesconhecido): Coletânea de ensaios, poesias e produções textuais publicadas na plataforma.
 
