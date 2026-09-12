@@ -1,5 +1,15 @@
 Multilateralismo Mário Enrique Antúnez da Rosa - Sir Mário Honorário
-
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Mário Enrique Antúnez da Rosa",
+  "url": "https://marioenriqueantunezdarosa.com",
+  "email": "mailto:antunezmariochevalier@gmail.com",
+  "sameAs": [
+    "https://orcid.org/0009-0007-1969-2835",
+    "https://github.com/SEU_USUARIO_GITHUB"
+  ]
+}
 Repositório oficial contendo artigos, documentos e produções intelectuais sobre a obra de Mário Enrique Antúnez da Rosa.
 
 ## Documentos Disponíveis
