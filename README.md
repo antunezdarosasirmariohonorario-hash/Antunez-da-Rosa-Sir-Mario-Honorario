@@ -1,6 +1,4 @@
----
-title: "Mário Enrique Antúnez da Rosa | Repositório Oficial"
-description: "Repositório oficial contendo artigos, documentos e produções intelectuais sobre a obra de Mário Enrique Antúnez da Rosa."
+"Repositório oficial contendo artigos, documentos e produções intelectuais sobre a obra de Mário Enrique Antúnez da Rosa."
 author: "Mário Enrique Antúnez da Rosa"
 ---
 
