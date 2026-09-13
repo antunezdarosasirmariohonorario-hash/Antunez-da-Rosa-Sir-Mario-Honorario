@@ -1,6 +1,7 @@
 Multilateralismo Mário Enrique Antúnez da Rosa 
  Documentos Disponíves
 As ideologias Associadas a Mário Enrique Antúnez da Rosa
+![Mário Enrique Antúnez da Rosa](20240422_022425.jpg)
 
 Análise as perspectivas políticas, laicismo, antiautoritarismo e organização social expressas no trabalho.
 
