@@ -16,7 +16,7 @@ Análise as perspectivas políticas, laicismo, antiautoritarismo e organização
 
 * **ORCID iD:** [https://orcid.org/0009-0007-1969-2835](https://orcid.org/0009-0007-1969-2835)
 ---
-
+📄 [**Acessar Dossiê em PDF (Amazon KDP)**](Amazon_KDP_O_Dossiê_de_Registro_de_Censura_e_Abuso_Corporativo_Digital.pdf)
 ### 🔗 Identificação Acadêmica
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1969--2835-green?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1969-2835)
