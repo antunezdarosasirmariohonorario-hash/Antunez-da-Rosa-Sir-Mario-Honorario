@@ -17,6 +17,7 @@ Análise as perspectivas políticas, laicismo, antiautoritarismo e organização
 * **ORCID iD:** [https://orcid.org/0009-0007-1969-2835](https://orcid.org/0009-0007-1969-2835)
 ---
 Tratado sobre Pesquisa Paranormal e Anômala de UAP's, um dos livros sobre o horizonte de Pesquisa Mística:
+
 [📄 Baixar/Visualizar o PDF (Tratado Prático e Eficaz)](./Tratado_Prático_e_Eficaz_Na_Prática_de_Campo_do_Paranormal_e_da_Ufologia%20.pdf)
 
 
