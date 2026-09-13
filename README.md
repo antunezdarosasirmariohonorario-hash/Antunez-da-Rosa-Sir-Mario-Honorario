@@ -5,7 +5,7 @@ As ideologias Associadas a Mário Enrique Antúnez da Rosa
 Análise as perspectivas políticas, laicismo, antiautoritarismo e organização social expressas no trabalho.
 
 * [**Perfil Literário e Textos no Recanto das Letras**](https://www.recantodasletras.com.br/autores/fatordesconhecido): Coletânea de ensaios, poesias e produções textuais publicadas na plataforma.
-
+<a href="https://zenodo.org/users/sirmariohonorario" target="_blank">Acesse o perfil no Zenodo</a>
 ## Temas Principais
 
 * Estado Laico e Espiritualidade
