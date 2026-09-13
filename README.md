@@ -16,6 +16,8 @@ Análise as perspectivas políticas, laicismo, antiautoritarismo e organização
 
 * **ORCID iD:** [https://orcid.org/0009-0007-1969-2835](https://orcid.org/0009-0007-1969-2835)
 ---
+Este dossiê explica o impacto de políticas corporativas, em detrimento da visibilidade e voz de autores independentes, que possuem críticas estruturais ao sistema que privilegia autores já consagrados, prejudicando a inovação literária:
+
 📄 [**Acessar Dossiê em PDF (Amazon KDP)**](Amazon_KDP_O_Dossiê_de_Registro_de_Censura_e_Abuso_Corporativo_Digital.pdf)
 ### 🔗 Identificação Acadêmica
 
