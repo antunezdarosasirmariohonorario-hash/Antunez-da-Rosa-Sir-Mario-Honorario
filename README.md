@@ -2,19 +2,29 @@
 body {
   background-color: #5a544e;
   background-image: url('IMG_20260913_225947.jpg');
-  background-repeat: repeat;
+  background-repeat: repeat; de
   background-attachment: fixed;
   color: #1a1a1a;
+  
+  /* Linha adicionada para a fonte Georgia */
+  font-family: Georgia, serif;
 }
 
 main, .markdown-body, .container {
   max-width: 850px;
   margin: 40px auto;
   padding: 35px;
+  
+  /* Suas cores de fundo azul e bordas continuam exatamente iguais */
   background-color: rgba(224, 247, 250, 0.96); 
   border: 1px solid #b2ebf2;
   border-radius: 6px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  
+  /* Linhas adicionadas para padronizar o texto na Georgia */
+  font-family: Georgia, serif;
+  font-size: 16px;
+  line-height: 1.6;
 }
 </style>
 Multilateralismo - Mário Enrique Antúnez da Rosa 
