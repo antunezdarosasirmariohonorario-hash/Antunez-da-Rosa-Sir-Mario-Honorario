@@ -1,5 +1,7 @@
 Multilateralismo - Mário Enrique Antúnez da Rosa 
-![Mário Enrique Antúnez da Rosa - Sir Mário Honorário](./Mario-Enrique-Antunez-da-Rosa-Sir-Mario-Honorario.png)
+<p align="center">
+  <img src="./Mario-Enrique-Antunez-da-Rosa-Sir-Mario-Honorario.png" alt="Mário Enrique Antúnez da Rosa - Sir Mário Honorário" width="300"/>
+</p>
 
  Documentos Disponíves
 As ideologias Associadas a Mário Enrique Antúnez da Rosa
