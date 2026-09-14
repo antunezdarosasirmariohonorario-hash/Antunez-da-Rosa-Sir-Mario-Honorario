@@ -4,6 +4,9 @@ As ideologias Associadas a Mário Enrique Antúnez da Rosa
 ![Mário Enrique Antúnez da Rosa](20240422_022425.jpg)
 
 Análise as perspectivas políticas, laicismo, antiautoritarismo e organização social expressas no trabalho.
+Cursos Realizados por Mário Enrique Antúnez da Rosa "Sir Mário Honorário":
+
+📄 [Baixar/Visualizar o PDF (Formação de Sir Mário Honorário)](./Forma%C3%A7%C3%A3o%20de%20Sir%20M%C3%A1rio%20Honor%C3%A1rio.pdf)
 
 * [**Perfil Literário e Textos no Recanto das Letras**](https://www.recantodasletras.com.br/autores/fatordesconhecido): Coletânea de ensaios, poesias e produções textuais publicadas na plataforma.
 ## Temas Principais
