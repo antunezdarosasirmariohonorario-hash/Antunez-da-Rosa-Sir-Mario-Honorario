@@ -11,8 +11,8 @@ main, .markdown-body, .container {
   max-width: 850px;
   margin: 40px auto;
   padding: 35px;
-  background-color: rgba(253, 251, 247, 0.96);
-  border: 1px solid #dcd6cd;
+  background-color: rgba(224, 247, 250, 0.96); 
+  border: 1px solid #b2ebf2;
   border-radius: 6px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
 }
