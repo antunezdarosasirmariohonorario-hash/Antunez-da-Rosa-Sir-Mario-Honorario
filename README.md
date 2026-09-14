@@ -51,7 +51,6 @@ O Conceito de Honorário (Estrutura Externa): No Direito Constitucional, no Dire
 
 Chevalier (Cavalaria Filosófica/Honorífica): Diferente dos títulos de soberania territorial, a ordem de Chevalier (Cavaleiro) pode ser concedida como distinção pessoal ou filosófica por uma autoridade legítima, sem qualquer necessidade de posse de terras ou exercício de soberania local. É um título de mérito, afinidade ou proteção moral.
 
-* **ORCID iD:** [https://orcid.org/0009-0007-1969-2835](https://orcid.org/0009-0007-1969-2835)
 ---
 Tratado sobre Pesquisa Paranormal e Anômala de UAP's, um dos livros sobre o horizonte de Pesquisa Mística:
 
