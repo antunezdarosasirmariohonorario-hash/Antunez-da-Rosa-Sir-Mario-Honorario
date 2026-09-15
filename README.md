@@ -56,6 +56,7 @@ Existe uma inversão completa no senso comum, alimentada pela vaidade:
 O Conceito de Honorário (Estrutura Externa): No Direito Constitucional, no Direito Internacional e no Direito Nobiliárquico (seja britânico, francês ou italiano), o título honorário (honoris causa ou à titre honoraire) designa estritamente o vínculo não residente e não efetivo. Indica que a pessoa não pertence ao quadro ordinário, não cumpre obrigações administrativas diárias e está fora da cadeia de comando/jurisdição direta da instituição. É um reconhecimento diplomático ou acadêmico de estima/mérito, e não um cargo de poder. O leigo lê "honorário" como um superlativo pomposo, quando na verdade é a marcação formal de exterritorialidade.
 
 Chevalier (Cavalaria Filosófica/Honorífica): Diferente dos títulos de soberania territorial, a ordem de Chevalier (Cavaleiro) pode ser concedida como distinção pessoal ou filosófica por uma autoridade legítima, sem qualquer necessidade de posse de terras ou exercício de soberania local. É um título de mérito, afinidade ou proteção moral.
+
 A questão do Kwai:
 
 A Questão das Plataformas de Videos Curtos no Modelo Asiático (Chinês) :
