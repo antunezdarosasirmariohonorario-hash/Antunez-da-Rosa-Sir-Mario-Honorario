@@ -75,6 +75,12 @@ A propaganda enganosa - Prêmios e jogos da plataforma que enganam os usuários,
 
  As agências ilegais - Agências e contratantes fora do CLT e regras dele, se escoram em brechas da lei brasileira pra forçarem streamers de lives à rotinas exaustivas, privando de horas de sono, pra bater metas abusivas, e ficarem com quase todo o lucro, inexiste um contrato claro de quanto eles ficam, e quanto pagam ao usuário, e essas mesmas agências , enganam o algoritmo em trocas de presentes virtuais entre eles próprios, pra passar a imagem de contas relevantes, e é justamente aí que o crescimento orgânico do usuário comum não engrena.
 
+ Enquanto o status quo elitista estiver lucrando com esses modismos pró exploração chinesa, por que motivo crês que moveriam um dedo pra modificarem algo?
+
+ Geralmente as mudanças não ocorrem por ética e equidade, mas sim quando os crimes cibernéticos, saúde mental de jovens e trabalhadores, se tornam caro demais para a reputação de governos.
+
+
+
  Sir Mário Honorário 
 
 ---
