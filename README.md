@@ -1,26 +1,3 @@
-Publicaçõesacocoteralismoteralismo
-body {
-  background-color: #5a544e;
-  background-image: url('IMG_20260913_225947.jpg');
-  background-repeat: repeat;
-  background-attachment: fixed;
-  color: #1a1a1a;
-  font-family: Georgia, serif;
-}
-
-main, .markdown-body, .container {
-  max-width: 850px;
-  margin: 40px auto;
-  padding: 35px;
-  background-color: rgba(224, 247, 250, 0.96); 
-  border: 1px solid #b2ebf2;
-  border-radius: 6px;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-  font-family: Georgia, serif;
-  font-size: 16px;
-  line-height: 1.6;
-}
-</style>
 Multilateralismo - Mário Enrique Antúnez da Rosa 
 <p align="center">
   <img src="./Mario-Enrique-Antunez-da-Rosa-Sir-Mario-Honorario.png" alt="Mário Enrique Antúnez da Rosa - Sir Mário Honorário" width="300"/>
