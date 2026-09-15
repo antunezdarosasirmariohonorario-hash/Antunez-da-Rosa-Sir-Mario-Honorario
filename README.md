@@ -30,6 +30,10 @@ Multilateralismo - Mário Enrique Antúnez da Rosa
 As ideologias Associadas a Mário Enrique Antúnez da Rosa
 ![Mário Enrique Antúnez da Rosa](20240422_022425.jpg)
 
+Livros e documento abaixo em pdf podem ser lidos e estão disponíveis para pdf.
+
+[Acessar Documento de Karatê (PDF)](/Karatê_Didática_Técnicas_Estilo_Definições_e_Maestria_.pdf)
+
 [Baixar/Visualizar o PDF (A Teoria do Anestésico Social de Crescimento Controlado)](COLE_O_LINK_COMPLETO_AQUI)
 
 Análise as perspectivas políticas, laicismo, antiautoritarismo e organização social expressas no trabalho.
