@@ -15,7 +15,7 @@ Livros e documento abaixo em pdf podem ser lidos e estão disponíveis para pdf.
 
 Análise as perspectivas políticas, laicismo, antiautoritarismo e organização social expressas no trabalho.
 
-CuMultilateralismolismoados por Mário Enrique Antúnez da Rosa "Sir Mário Honorário":
+Antúnez da Rosa "Sir Mário Honorário":
 
 📄 [Baixar/Visualizar o PDF (Formação de Sir Mário Honorário)](./Forma%C3%A7%C3%A3o%20de%20Sir%20M%C3%A1rio%20Honor%C3%A1rio.pdf)
 
