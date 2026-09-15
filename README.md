@@ -30,6 +30,8 @@ Multilateralismo - Mário Enrique Antúnez da Rosa
 As ideologias Associadas a Mário Enrique Antúnez da Rosa
 ![Mário Enrique Antúnez da Rosa](20240422_022425.jpg)
 
+[Baixar/Visualizar o PDF (A Teoria do Anestésico Social de Crescimento Controlado)](COLE_O_LINK_COMPLETO_AQUI)
+
 Análise as perspectivas políticas, laicismo, antiautoritarismo e organização social expressas no trabalho.
 
 Cursos Realizados por Mário Enrique Antúnez da Rosa "Sir Mário Honorário":
