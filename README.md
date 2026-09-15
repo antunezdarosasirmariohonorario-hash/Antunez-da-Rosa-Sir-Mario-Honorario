@@ -1,33 +1,48 @@
+---
+layout: default
+title: Registro Acadêmico
+---
+
 <style>
     body {
-        background-color: #1a2b4c;
-        color: #f0f0f0;
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
+        background-color: #162238;
+        color: #e6edf3;
+        font-family: Georgia, serif;
+        line-height: 1.7;
         margin: 0;
         padding: 20px;
     }
     .container {
         max-width: 800px;
         margin: 40px auto;
-        background-color: #111e38;
-        border: 2px solid #5c3a21;
-        padding: 30px;
-        border-radius: 6px;
+        background-color: #1c2c48;
+        border: 2px solid #d4af37; /* Borda dourada */
+        padding: 35px;
+        border-radius: 4px;
     }
     h1, h2, h3 {
-        color: #d4a373;
-        border-bottom: 1px solid #5c3a21;
+        color: #f3e5ab; /* Tom dourado claro para os títulos */
+        border-bottom: 1px solid #d4af37;
         padding-bottom: 8px;
+        font-family: Georgia, serif;
     }
     a {
-        color: #8ab4f8;
+        color: #79c0ff;
         text-decoration: none;
     }
     a:hover {
         text-decoration: underline;
     }
 </style>
+
+<div class="container">
+    <h1>Antunez da Rosa</h1>
+    <p>Bem-vindo ao acervo de documentação e registros.</p>
+    
+    <!-- Exemplo do seu link de PDF já funcionando -->
+    <p><a href="/Karatê_Didática_Técnicas_Estilo_Definições_e_Maestria_.pdf">Acessar Documento de Karatê (PDF)</a></p>
+</div>
+
 Multilateralismo - Mário Enrique Antúnez da Rosa 
 <p align="center">
   <img src="./Mario-Enrique-Antunez-da-Rosa-Sir-Mario-Honorario.png" alt="Mário Enrique Antúnez da Rosa - Sir Mário Honorário" width="300"/>
