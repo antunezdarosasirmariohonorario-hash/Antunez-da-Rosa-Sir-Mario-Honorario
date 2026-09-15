@@ -1,3 +1,33 @@
+<style>
+    body {
+        background-color: #1a2b4c;
+        color: #f0f0f0;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 20px;
+    }
+    .container {
+        max-width: 800px;
+        margin: 40px auto;
+        background-color: #111e38;
+        border: 2px solid #5c3a21;
+        padding: 30px;
+        border-radius: 6px;
+    }
+    h1, h2, h3 {
+        color: #d4a373;
+        border-bottom: 1px solid #5c3a21;
+        padding-bottom: 8px;
+    }
+    a {
+        color: #8ab4f8;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+</style>
 Multilateralismo - Mário Enrique Antúnez da Rosa 
 <p align="center">
   <img src="./Mario-Enrique-Antunez-da-Rosa-Sir-Mario-Honorario.png" alt="Mário Enrique Antúnez da Rosa - Sir Mário Honorário" width="300"/>
