@@ -39,10 +39,6 @@ title: Registro Acadêmico
     <h1>Antunez da Rosa</h1>
     <p>Bem-vindo ao acervo de documentação e registros.</p>
     
-    <!-- Exemplo do seu link de PDF já funcionando -->
-    <p><a href="/Karatê_Didática_Técnicas_Estilo_Definições_e_Maestria_.pdf">Acessar Documento de Karatê (PDF)</a></p>
-</div>
-
 Multilateralismo - Mário Enrique Antúnez da Rosa 
 <p align="center">
   <img src="./Mario-Enrique-Antunez-da-Rosa-Sir-Mario-Honorario.png" alt="Mário Enrique Antúnez da Rosa - Sir Mário Honorário" width="300"/>
