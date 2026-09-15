@@ -69,7 +69,7 @@ O Kwai é um site que possui um costume invasivo, além de outros defeitos crass
 
 2 - O setor invasivo - Para não terdes emails separados, nem telefone  possível de tentardes outra conta, o Kwai pesca toda informação sua, na desculpa de ser a segurança da conta, pegam ip de aparelho celular ou computador, digital se o aparelho tiver tal recurso, e email de confirmação, (jurando ser seguro, caso esquecerdes da senha), tudo conversa fiada, para impossibilitar um usuário a iniciar do zero, caso hajam contratempos em um perfil.
   
-A propaganda enganosa - Prêmios e jogos da plataforma que enganam os usuários, ganhe 200 reais, o sorteio chega nos 200 com extrema dificuldade, mas reinicia na desculpa de precisar o envio de convite, a fim de vicê e outro ganharem juntos, o que já é por demais saturado, e ninguém clica mais num convite fraudulento desses.
+A propaganda enganosa - Prêmios e jogos da plataforma que enganam os usuários, ganhe 200 reais, o sorteio chega nos 200 com extrema dificuldade, mas reinicia na desculpa de precisar o envio de convite, a fim de você e outro ganharem juntos, o que já é por demais saturado, e ninguém clica mais num convite fraudulento desses.
 
  Os crimes cibernéticos - Toda tarefa de criador, é divulgação de jogos de azar, se chega a dar "grilo", tais empresas estrangeiras sem cnpj brasileiro simplesmente evaporam,  a culpa fica com o "tonto" que divulgou.
 
