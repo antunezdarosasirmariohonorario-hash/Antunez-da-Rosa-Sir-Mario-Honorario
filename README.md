@@ -53,7 +53,7 @@ Antúnez da Rosa "Sir Mário Honorário":
 
 * Estado Laico e Espiritualidade
 * Antiautoritarismo e Estruturas de Poder
-* Crítica Socioeconômica e MultiPesquisasmo
+* Crítica Socioeconômica e MultiPesquisas 
 
 ## Perfil Acadêmico e Publicações Completas
 
