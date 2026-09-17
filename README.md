@@ -173,9 +173,11 @@ A Sociedade do Espetáculo em Contraposição à Realidade:
 
 SirMárioHonorário
 
+
 Livros e documento abaixo em pdf podem ser lidos e estão disponíveis para pdf.
 
 [Acessar Documento de Karatê (PDF)](/Karatê_Didática_Técnicas_Estilo_Definições_e_Maestria_.pdf)
+
 
 [Baixar/Visualizar o PDF (A Teoria do Anestésico Social de Crescimento Controlado)](COLE_O_LINK_COMPLETO_AQUI)
 
@@ -195,6 +197,8 @@ Antúnez da Rosa "Sir Mário Honorário":
 * Crítica Socioeconômica e MultiPesquisas
 
 O Formato dos Horários do Trabalho a Nível de Brasil:
+
+
 Aqui está a lista ordenada do maior para o menor percentual, considerando o total de trabalhadores em expediente comercial (8h às 18h) do Brasil como 100%:
 
 São Paulo (SP): 28,5%
