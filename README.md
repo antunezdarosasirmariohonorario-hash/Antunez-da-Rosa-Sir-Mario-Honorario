@@ -34,9 +34,11 @@ Multilateralismo- Mário Enrique Antúnez da Rosa
 
  Documentos Disponíves
 As ideologias Associadas a Mário Enrique Antúnez da Rosa
+
 ![Mário Enrique Antúnez da Rosa](20240422_022425.jpg)
 
 A Sociedade do Espetáculo em Contraposição à Realidade:
+
  O Show Business e espetáculos independentes sobrevivem da falsa imagem pública, (Teoria de Public Image- Guy Debord).
 
  Num evento indiano a exemplo simples, a moça junto à outras fazia gestos obscenos e insinuantes, a público, num evento carnavalesco de tradição de alegada fertilidade, e orgias.
