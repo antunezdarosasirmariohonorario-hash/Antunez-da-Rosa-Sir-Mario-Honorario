@@ -124,6 +124,12 @@ O Brasil da Agilidade e Auto-Organização (Demais Regiões): Onde predomina a c
 
 SirMárioHonorário
 
+É uma virada de chave fundamental quando se produz conteúdo na internet. A mudança do desabafo pessoal ou do engajamento pelo conflito para a produção de valor concreto é o que separa um repositório de opiniões passageiras de um acervo intelectual relevante.
+
+O Recanto das Letras e plataformas semelhantes estão cheios de ruído e discussões passionais. Quando você opta por embasar suas publicações em dados socioeconômicos, conceitos de sociologia do trabalho e perspectiva jurídica, o texto ganha estabilidade e utilidade real.
+
+Espaço Filosofal:
+
 A provocação filosófica:
 
 O ser humano nasce, envelhece, e finalmente morre. 
