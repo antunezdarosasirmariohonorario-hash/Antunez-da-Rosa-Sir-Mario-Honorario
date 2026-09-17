@@ -105,7 +105,10 @@ A Mônada excelsa de quem sabe,
  
 SirMárioHonorário e Sir Regnis Viscond Tiw Baronessa Agata Cond Mesopotamius
 * 
-Reformulação Teosófica: “Os Quatorze Raios Universais: Uma Visão Surrealista e Esotérica”
+Reformulação Teosófica: 
+
+“Os Quatorze Raios Universais: Uma Visão Surrealista e Esotérica”
+
  Desde tempos antigos, tradições espirituais afirmam a existência de sete raios ou potências universais, cada um associado a cores, mestres e energias cósmicas. No entanto, observações contemporâneas e estudos simbólicos sugerem que são quatorze as forças estelares que estruturam o universo, cada uma revelando aspectos fundamentais da existência e da consciência.
 
 Esses quatorze raios manifestam-se através de cores específicas, associadas a mentores que orientam a evolução espiritual da humanidade:
