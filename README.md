@@ -35,6 +35,96 @@ Multilateralismo- Mário Enrique Antúnez da Rosa
  Documentos Disponíves
 As ideologias Associadas a Mário Enrique Antúnez da Rosa
 
+Teoria da Mobilidade Integracionista entre Nações:
+
+Imagine uma política internacional em que os governos deixassem de enxergar as viagens internacionais apenas como uma atividade de consumo e passassem a tratá-las como investimento estratégico na integração entre os povos.
+
+A lógica seria relativamente simples: o Estado poderia subsidiar ou reduzir drasticamente o custo de determinadas viagens internacionais, tornando-as acessíveis a uma parcela muito maior da população. À primeira vista, isso representaria uma despesa pública. Entretanto, o viajante que chega a outro país não leva apenas o dinheiro da passagem: ele consome hospedagem, alimentação, transporte, entretenimento, produtos e serviços, movimentando empresas e trabalhadores tanto no país de origem quanto no destino.
+
+Assim, parte do dinheiro investido inicialmente pelo Estado retornaria à economia por meio da atividade comercial, da arrecadação e da geração de empregos. O objetivo não seria simplesmente oferecer viagens baratas, mas estimular um fluxo permanente de pessoas, recursos, conhecimento e relações econômicas entre diferentes sociedades.
+
+Da viagem ao intercâmbio entre sociedades
+
+Uma pessoa que viaja para outro país entra em contato direto com uma realidade que antes conhecia apenas por notícias, filmes ou redes sociais. Ela conhece pessoas, costumes, idiomas, dificuldades e formas diferentes de organizar a sociedade.
+
+O mesmo acontece com o estrangeiro que visita seu país.
+
+Multiplicado por milhões de pessoas ao longo de décadas, esse processo pode produzir algo muito maior do que turismo: aproximação cultural e social entre populações.
+
+O brasileiro passa a conhecer melhor o americano, o americano conhece melhor o brasileiro, o chinês conhece melhor o brasileiro, o brasileiro conhece melhor o chinês, e assim sucessivamente.
+
+Essa aproximação não elimina automaticamente conflitos ou preconceitos, mas pode diminuir a distância psicológica entre sociedades que anteriormente existiam umas para as outras apenas como abstrações.
+
+A interdependência como instrumento de paz
+
+Existe ainda uma consequência econômica e política.
+
+Quanto mais dois países dependem um do outro para turismo, comércio, serviços, educação, investimentos e circulação de pessoas, maior se torna o custo de um rompimento entre eles.
+
+Uma relação internacional deixa de ser exclusivamente uma negociação entre governos e passa a envolver milhões de interesses concretos: empresas, trabalhadores, estudantes, famílias, consumidores e pequenos comerciantes.
+
+A integração, portanto, poderia funcionar como uma espécie de rede de interesses compartilhados.
+
+Quanto maior a rede, maior o incentivo para preservá-la.
+
+Uma nova concepção de investimento público
+
+Nessa perspectiva, o governo não precisaria necessariamente subsidiar todas as viagens indiscriminadamente.
+
+Poderia identificar rotas e países estratégicos e calcular:
+
+custo do incentivo → quantidade adicional de viajantes → consumo gerado → empregos → arrecadação → comércio adicional → retorno diplomático e cultural.
+
+Se o retorno econômico e estratégico superasse o investimento inicial, a política poderia ser ampliada.
+
+Isso mudaria a pergunta.
+
+Em vez de:
+
+“Quanto o governo gastará para baratear uma viagem?”
+
+a pergunta passaria a ser:
+
+“Quanto de atividade econômica, integração e cooperação podemos gerar com cada unidade de investimento em mobilidade internacional?”
+
+A verdadeira “Nova Ordem Mundial”
+
+É aqui que a teoria ganha sua dimensão mais ampla.
+
+Uma Nova Ordem Mundial, nesse sentido, não precisaria começar com a criação de um governo mundial, com a eliminação das fronteiras ou com a concentração de poder em uma instituição única.
+
+Ela poderia surgir gradualmente, de baixo para cima, através da interdependência entre as populações.
+
+Primeiro vêm as viagens.
+
+Depois, os intercâmbios.
+
+Depois, os negócios.
+
+Depois, os investimentos.
+
+Depois, famílias e comunidades com vínculos em vários países.
+
+Depois, empresas que dependem de mercados internacionais.
+
+E, finalmente, governos que percebem que seus próprios interesses nacionais estão cada vez mais conectados aos interesses dos demais.
+
+O resultado poderia ser uma situação em que as fronteiras políticas continuassem existindo, mas sua importância prática diminuísse progressivamente.
+
+Não seria necessariamente “um governo para o mundo”, mas algo talvez ainda mais profundo: um mundo em que os governos permanecem separados, enquanto suas sociedades se tornam progressivamente interdependentes.
+
+A ideia central
+
+A unificação do mundo talvez não precise começar pela política. Pode começar pela mobilidade das pessoas.
+
+Se milhões de pessoas puderem atravessar fronteiras com facilidade, conhecer outras culturas, consumir, estudar, trabalhar e estabelecer relações econômicas e humanas, a integração deixará de ser apenas um projeto diplomático e passará a fazer parte da vida cotidiana.
+
+Nesse cenário, o turismo deixaria de ser apenas lazer e passaria a ser uma ferramenta de integração econômica, cultural e geopolítica.
+
+E talvez essa seja a forma mais gradual de construir uma ordem internacional verdadeiramente integrada: não obrigando as nações a se unificarem, mas fazendo com que tenham cada vez mais motivos para permanecer unidas.
+
+Sir Mário Honorário
+
 ![Mário Enrique Antúnez da Rosa](20240422_022425.jpg)
 
 A Sociedade do Espetáculo em Contraposição à Realidade:
