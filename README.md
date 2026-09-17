@@ -105,6 +105,7 @@ A Mônada excelsa de quem sabe,
  
 SirMárioHonorário e Sir Regnis Viscond Tiw Baronessa Agata Cond Mesopotamius
 * 
+
 Reformulação Teosófica: 
 
 “Os Quatorze Raios Universais: Uma Visão Surrealista e Esotérica”
