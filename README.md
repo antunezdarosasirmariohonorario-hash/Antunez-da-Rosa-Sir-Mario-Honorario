@@ -106,6 +106,12 @@ A Mônada excelsa de quem sabe,
 SirMárioHonorário e Sir Regnis Viscond Tiw Baronessa Agata Cond Mesopotamius
 * 
 
+
+Tanto um céu pré-concebido quanto um inferno pré-deduzido são erros que impedem a pessoa de valorizar a vida terrena e harmonizá-la com decência, em benefício próprio e dos outros.
+
+SirMárioHonorário
+
+
 Reformulação Teosófica: 
 
 “Os Quatorze Raios Universais: Uma Visão Surrealista e Esotérica”
