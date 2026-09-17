@@ -49,11 +49,80 @@ Antúnez da Rosa "Sir Mário Honorário":
 📄 [Baixar/Visualizar o PDF (Formação de Sir Mário Honorário)](./Forma%C3%A7%C3%A3o%20de%20Sir%20M%C3%A1rio%20Honor%C3%A1rio.pdf)
 
 * [**Perfil Literário e Textos no Recanto das Letras**](https://www.recantodasletras.com.br/autores/fatordesconhecido): Coletânea de ensaios, poesias e produções textuais publicadas na plataforma.
+
+* 
 ## Temas Principais
 
 * Estado Laico e Espiritualidade
 * Antiautoritarismo e Estruturas de Poder
 * Crítica Socioeconômica e MultiPesquisas
+
+O Formato dos Horários do Trabalho a Nível de Brasil:
+Aqui está a lista ordenada do maior para o menor percentual, considerando o total de trabalhadores em expediente comercial (8h às 18h) do Brasil como 100%:
+
+São Paulo (SP): 28,5%
+
+Minas Gerais (MG): 10,2%
+
+Rio de Janeiro (RJ): 8,8%
+
+Rio Grande do Sul (RS): 6,8%
+
+Paraná (PR): 6,5%
+
+Bahia (BA): 5,1%
+
+Santa Catarina (SC): 4,7%
+
+Goiás (GO): 3,3%
+
+Pernambuco (PE): 3,2%
+
+Ceará (CE): 2,8%
+
+Pará (PA): 2,5%
+
+Mato Grosso (MT): 2,1%
+
+Distrito Federal (DF): 2,0%
+
+Maranhão (MA): 1,6%
+
+Espírito Santo (ES): 1,5%
+
+Mato Grosso do Sul (MS): 1,5%
+
+Amazonas (AM): 1,4%
+
+Paraíba (PB): 1,1%
+
+Rio Grande do Norte (RN): 1,0%
+
+Alagoas (AL): 0,9%
+
+Piauí (PI): 0,9%
+
+Sergipe (SE): 0,7%
+
+Rondônia (RO): 0,7%
+
+Tocantins (TO): 0,6%
+
+Acre (AC): 0,3%
+
+Amapá (AP): 0,2%
+
+Roraima (RR): 0,2%
+
+A Síntese Antropológica dos Dados
+
+A lista expõe a coexistência de dois modelos produtivos marcantes no país:
+
+O Brasil da Norma Padrão (Sudeste/Sul): Onde a alta concentração de empregos formais consolida a cultura do relógio, do cartão de ponto e da disciplina industrial/corporativa, com jornadas fixas e rígidas (como das 8h às 18h).
+
+O Brasil da Agilidade e Auto-Organização (Demais Regiões): Onde predomina a cultura do trabalho autônomo, do pequeno comércio e da prestação de serviços. Nesses locais, o indivíduo tende a gerar a própria renda e moldar o próprio tempo, resultando em horários mais flexíveis e dinâmicos (incluindo o uso de mídias digitais e lives para monetizar o trabalho do dia a dia).
+
+SirMárioHonorário
 
 A provocação filosófica:
 
