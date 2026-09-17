@@ -55,6 +55,22 @@ Antúnez da Rosa "Sir Mário Honorário":
 * Antiautoritarismo e Estruturas de Poder
 * Crítica Socioeconômica e MultiPesquisas
 
+A provocação filosófica:
+
+O ser humano nasce, envelhece, e finalmente morre. 
+Tal é a "trindade" da Vida, a nota - Física.
+
+Mas o limite científico é:
+
+ 1 . Imaginar que tudo nasce a partir do espermatozóide e óvulo.
+
+2. Deixar de ver as arestas, ou seja, o ser é uma combinação de Química, Física, Plasma e Éter com Energia.
+
+3. Logo por pura lógica, ele era algo antes mesmo do nascimento físico, e volta a sê-lo no Pós Mortem.
+
+ A existência física foi apenas uma manifestação terrena limitada e passageira de algo anterior.
+
+Sir Mário Honorário
   
 Somos Homem e Mulher Universais:
 A Serpente Ígnea de nossos Mágicos Poderes,
@@ -73,7 +89,7 @@ Em Tetragrammatom,
 
 Faraon...
 
-Nenhum Mestre foi em seu Tempo reconhecido,em um Mundo e época decadente em que viveu,sempre foi ignorado pelos tolos...
+Nenhum Mestre foi em seu TempHonoráriocido,em um Mundo e época decadente em que viveu,sempre foi ignorado pelos tolos...
 
 Tal qual existe e se assume o Grande Meliom...
 
