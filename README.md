@@ -53,7 +53,56 @@ Antúnez da Rosa "Sir Mário Honorário":
 
 * Estado Laico e Espiritualidade
 * Antiautoritarismo e Estruturas de Poder
-* Crítica Socioeconômica e MultiPesquisas 
+* Crítica Socioeconômica e MultiPesquisas
+Somos Homem e Mulher Universais:
+A Serpente Ígnea de nossos Mágicos Poderes,
+
+A Mônada Excelsa de quem sabe o nome da sua própria e a reconhece,
+
+No Poder da grande Sephirot,
+
+Expulsando o Andomusein Kundartiguador,
+
+Expelindo o Falso Mestre,
+
+No Romance Astral da Alma do Mundo,
+
+Em Tetragrammatom,
+
+Faraon...
+
+Nenhum Mestre foi em seu Tempo reconhecido,em um Mundo e época decadente em que viveu,sempre foi ignorado pelos tolos...
+
+Tal qual existe e se assume o Grande Meliom...
+
+O cálice Sagrado passa de mão em mão,entre Homens e Deuses...!
+
+Entre Névoas,e nuvens,numa Festa Oculta e Honrosa,entre os Despertos,
+
+Em que toda a Glória e Honraria devida lhes é dada...
+
+No Explêndido e Titânico brilho do Celestial...
+
+O Paraíso perdido da Humanidade...
+
+O elo que a Tolice fez desligar,desmanchar,num Passado longínquo...
+
+Eis o Ressurecto...!
+
+Vários Cristus,
+
+Vários Super Humanos...
+
+Semi Deuses....
+
+A quem se permite o beber inigualável da Fonte Primordial.
+
+ 
+A Mônada excelsa de quem sabe,
+
+ 
+SirMárioHonorário e Sir Regnis Viscond Tiw Baronessa Agata Cond Mesopotamius
+* 
 
 ## Perfil Acadêmico e Publicações Completas
 
