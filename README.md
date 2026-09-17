@@ -54,6 +54,8 @@ Antúnez da Rosa "Sir Mário Honorário":
 * Estado Laico e Espiritualidade
 * Antiautoritarismo e Estruturas de Poder
 * Crítica Socioeconômica e MultiPesquisas
+
+  
 Somos Homem e Mulher Universais:
 A Serpente Ígnea de nossos Mágicos Poderes,
 
