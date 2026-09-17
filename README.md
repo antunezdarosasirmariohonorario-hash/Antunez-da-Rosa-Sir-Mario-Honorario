@@ -36,6 +36,51 @@ Multilateralismo- Mário Enrique Antúnez da Rosa
 As ideologias Associadas a Mário Enrique Antúnez da Rosa
 ![Mário Enrique Antúnez da Rosa](20240422_022425.jpg)
 
+A Sociedade do Espetáculo em Contraposição à Realidade:
+ O Show Business e espetáculos independentes sobrevivem da falsa imagem pública, (Teoria de Public Image- Guy Debord).
+
+ Num evento indiano a exemplo simples, a moça junto à outras fazia gestos obscenos e insinuantes, a público, num evento carnavalesco de tradição de alegada fertilidade, e orgias.
+
+ Não obstante aquilo difere de contato pessoal equitativo por detalhes:
+
+ 1. Quem faz acima de um veículo móvel, quer autopromoção de sua imagem artística a sentido geral, nada de pessoalidade há ali, e sim o alimento ao "alter ego", que quase sempre acaba em egocentrismo.
+
+ A chamada falta de consideração com os outros.
+
+ 2. Teve quem viu a filmagem e se vislumbrou, ou se emocionou dizendo:
+
+ -Depois dizem que brasileiras são vulgares.
+
+ -Imagine um país com bilhões de baianos, essa é a Índia.
+
+(Pensamento curto de atalho mental, ressentimento e estigma).
+
+ Outro ainda falou;
+
+ -É pior que no Brasil.
+
+ E assim foram indo as opiniões dos mesmos indivíduos, que se estivessem lá, aplaudiriam e pediriam "bis", com os alegóricos doces nas xícaras e virando-as quais gnomos ao roubarem chocolate quente.
+
+ O ressentimento causado por não poder usufruir do "produto" teatralizado ali, em detrimento da imagem da mulher, foi tanto, que houve quem insinuou:
+
+ -Deve estar com um cheiro de transpiração impregnado.
+
+ As mídias e eventos dominam a fantasia de tolos, e os atalhos mentais, de pessoas que apenas brigam com suas próprias projeções do que os demais seriam ou não.
+
+ Para finalizar o texto, citarei a última interação entre dois internautas ali:
+
+ Internauta A.
+
+ -É incrível a baixaria, e como as mulheres não se dão o valor!
+
+ Internauta B, responde:
+
+ -O valor é o mesmo, lucrar com relacionamento.
+
+ 
+
+SirMárioHonorário
+
 Livros e documento abaixo em pdf podem ser lidos e estão disponíveis para pdf.
 
 [Acessar Documento de Karatê (PDF)](/Karatê_Didática_Técnicas_Estilo_Definições_e_Maestria_.pdf)
