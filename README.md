@@ -27,6 +27,13 @@ main, .markdown-body, .container {
   line-height: 1.6;
 }
 </style>
+
+<video width="100%" style="max-width: 560px; display: block; margin: 30px auto; border-radius: 6px;" controls>
+  <source src="5259228573269456279_play.mp4_logo_BR.mp4" type="video/mp4">
+  Seu navegador não suporta a exibição deste vídeo.
+</video>
+
+
 Multilateralismo- Mário Enrique Antúnez da Rosa 
 <p align="center">
   <img src="./Mario-Enrique-Antunez-da-Rosa-Sir-Mario-Honorario.png" alt="Mário Enrique Antúnez da Rosa - Sir Mário Honorário" width="300"/>
