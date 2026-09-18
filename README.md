@@ -130,6 +130,34 @@ Nesse cenário, o turismo deixaria de ser apenas lazer e passaria a ser uma ferr
 
 E talvez essa seja a forma mais gradual de construir uma ordem internacional verdadeiramente integrada: não obrigando as nações a se unificarem, mas fazendo com que tenham cada vez mais motivos para permanecer unidas.
 
+
+
+A Questão Zebra da Saúde Pública versus Slogans Partidários:
+ Em matéria de projetos nos slogans polarizados, entre partidos, por muitos anos no Brasil, se possui uma retórica por demais demagógica, em que as promessas fantásticas, quase nunca tampam o autêntico "rombo público" de incompetência.
+
+ O cidadão que é informado que terá uma dentadura parafusada, de qualidade, totalmente via SUS, a exemplo simples - No papel, parece uma solução maravilhosa - Mas, em contra posição, na prática, o "rombo" continua. 
+
+ Se esquece a fila de espera por demanda, esse detalhe, faz que o dependente do benefício tenha que extrair todos os dentes, e ficar até "dois anos" aguardando, (sem nenhum dente na boca), a liberação de uma prótese.
+
+ Outro exemplo, a saúde dos idosos, para cada exame de cálculos renais, quase a mesma situação ocorre, sem contar a falta de medicamentos.
+
+ Existem Estados do Brasil, em que o desvio de verbas é tão grande, que a demora do planejamento sair do papel é deveras gigante, e quando sai, não cobre todas as necessidades dos idosos e aposentados.
+
+ Em Santa Catarina, na cidade de São Lourenço do Sul e Aurora, levam o aposentado ao exame, custeiam o que precisa, a facilidade é maior, e a competência também. A questão que não quer calar é:
+
+ Por que em outros locais falha a equidade e transparência nesses cálculos de verbas públicas?
+
+ O próprio fato de faltar recursos para exames até em unidades do quartel, no período em que se disponibilizou isso, em epidemias, soa patético, mas é semelhante à música do Metallica:
+
+ Sad but True! 
+
+(Triste mas verdade).
+
+ Enquanto slogans partidários prometem a melhoria da saúde pública, em retóricas discursivas que se mostraram inválidas, durante as décadas brasileiras, obviamente o povo está sendo enganado facilmente.
+
+SirMárioHonorário
+
+
 Sir Mário Honorário
 
 ![Mário Enrique Antúnez da Rosa](20240422_022425.jpg)
