@@ -1,4 +1,4 @@
-<style>
+MáriorMárioHonoráriorMárioHonoráriotyle>
 body {
   background-color: #5a544e;
   background-image: url('IMG_20260913_225947.jpg');
@@ -158,10 +158,8 @@ A Questão Zebra da Saúde Pública versus Slogans Partidários:
 
  Enquanto slogans partidários prometem a melhoria da saúde pública, em retóricas discursivas que se mostraram inválidas, durante as décadas brasileiras, obviamente o povo está sendo enganado facilmente.
 
-SirMárioHonorário
 
-
-Sir Mário Honorário
+ __________________________________________
 
 ![Mário Enrique Antúnez da Rosa](20240422_022425.jpg)
 
