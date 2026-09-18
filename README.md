@@ -1,12 +1,4 @@
-MáriorMárioHonoráriorMárioHonoráriotyle>
-body {
-  background-color: #5a544e;
-  background-image: url('IMG_20260913_225947.jpg');
-  background-repeat: repeat;
-  background-attachment: fixed;
-  color: #1a1a1a;
-  
-  /* Linha adicionada para a fonte Georgia */
+Linha adicionada para a fonte Georgia */
   font-family: Georgia, serif;
 }
 
