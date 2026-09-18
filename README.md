@@ -1,55 +1,26 @@
 <style>
-
 body {
-
   background-color: #5a544e;
-
   background-image: url('IMG_20260913_225947.jpg');
-
   background-repeat: repeat;
-
   background-attachment: fixed;
-
   color: #1a1a1a;
-
-  
-
   /* Aplica a fonte Georgia globalmente, com alternativas de segurança */
-
   font-family: Georgia, serif;
-
 }
-
-
-
 main, .markdown-body, .container {
-
   max-width: 850px;
-
   margin: 40px auto;
-
   padding: 35px;
-
   background-color: rgba(224, 247, 250, 0.96); 
-
   border: 1px solid #b2ebf2;
-
   border-radius: 6px;
-
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-
-  
-
   /* Garante que o bloco interno também use Georgia e redimensiona levemente para legibilidade */
-
   font-family: Georgia, serif;
-
   font-size: 16px;
-
   line-height: 1.6;
-
 }
-
 </style> 
 <video width="100%" style="max-width: 560px; display: block; margin: 30px auto; border-radius: 6px;" controls>
   <source src="5259228573269456279_play.mp4_logo_BR.mp4" type="video/mp4">
