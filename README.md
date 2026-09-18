@@ -131,8 +131,11 @@ Nesse cenário, o turismo deixaria de ser apenas lazer e passaria a ser uma ferr
 E talvez essa seja a forma mais gradual de construir uma ordem internacional verdadeiramente integrada: não obrigando as nações a se unificarem, mas fazendo com que tenham cada vez mais motivos para permanecer unidas.
 
 
+___________________________________________
+
 
 A Questão Zebra da Saúde Pública versus Slogans Partidários:
+
  Em matéria de projetos nos slogans polarizados, entre partidos, por muitos anos no Brasil, se possui uma retórica por demais demagógica, em que as promessas fantásticas, quase nunca tampam o autêntico "rombo público" de incompetência.
 
  O cidadão que é informado que terá uma dentadura parafusada, de qualidade, totalmente via SUS, a exemplo simples - No papel, parece uma solução maravilhosa - Mas, em contra posição, na prática, o "rombo" continua. 
