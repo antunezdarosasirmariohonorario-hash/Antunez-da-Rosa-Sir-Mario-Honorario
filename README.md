@@ -415,6 +415,17 @@ Assim, os quatorze raios universais oferecem um mapa simbólico da evolução es
 
 
 
+Perfil Kwai
+
+<!-- Botão do Kwai para o GitHub Pages -->
+<a href="https://m.kwai.com/user/150001625328767" 
+   target="_blank" 
+   rel="noopener noreferrer" 
+   style="display: inline-block; padding: 10px 20px; background-color: #ff5000; color: #ffffff; font-weight: bold; text-decoration: none; border-radius: 5px; font-family: sans-serif;">
+   Siga no Kwai
+</a>
+
+
 ## Perfil Acadêmico e Publicações Completas
 
 Existe uma inversão completa no senso comum, alimentada pela vaidade:
