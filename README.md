@@ -20,6 +20,49 @@
 }
 </script>
 
+
+Reformulação Teosófica: “Os Quatorze Raios Universais: Uma Visão Surrealista e Esotérica”
+ Desde tempos antigos, tradições espirituais afirmam a existência de sete raios ou potências universais, cada um associado a cores, mestres e energias cósmicas. No entanto, observações contemporâneas e estudos simbólicos sugerem que são quatorze as forças estelares que estruturam o universo, cada uma revelando aspectos fundamentais da existência e da consciência.
+
+Esses quatorze raios manifestam-se através de cores específicas, associadas a mentores que orientam a evolução espiritual da humanidade:
+
+Branca – Mentores Apiáceos, guia da pureza e iluminação.
+
+Preta – Mentores Domus, representantes da densidade cósmica e dos buracos negros.
+
+Azul – Mentores Zênites, portadores da sabedoria e da harmonia universal.
+
+Verde – Mentores Etéreos, ligados à vitalidade e ao equilíbrio da vida.
+
+Amarela – Mentores Dójus, da força, expressão e da criatividade.
+
+Vermelha – Mentores Fáguos, força da energia vital e transformação.
+
+Marrom – Mentores Fisious, guardiões da estabilidade material e ancestral.
+
+Roxa – Mentores Vérkows, condutores do misticismo e da transcendência.
+
+Rosa – Mentores Ternus, irradiadores de compaixão e amor universal.
+
+Prateada – Mentores Conésprates, representantes da intuição cósmica.
+
+Cinza – Mentores Humo, equilíbrio entre luz e sombra e pausas necessárias
+
+Dourada – Mentores Dórkons, simbolizam a honra, prosperidade e o poder espiritual.
+
+Alaranjada – Mentores Sínt’s, catalisadores da atividade, disciplina e renovação.
+
+Bége – Mentores Núrios, ligação entre a humanidade e a sabedoria ancestral.
+
+Cada raio também se conecta a um Mestre ou divindade reconhecida por diferentes culturas: Buda, Yussuf Al Asaf (Isa), Lao-Tzu, Zeus, Elohím, Odín, Visnu, Siva, Zambi, Hades, Amaterasu-Okami, Aurora (tradições místicas da Antártida), Cosmo (tradições místicas do Ártico) e Nhanderuvussú-Yamandú (divindade ameríndia vinculada a Tupã, o trovão).
+
+Simbolicamente, os Mestres maiores, como Sanat Kumara e os três Cohans, residem no horizonte e vértice de Shamballah, representando a conexão entre o terrestre e o cósmico.
+
+Assim, os quatorze raios universais oferecem um mapa simbólico da evolução espiritual, integrando cores, mestres e forças cósmicas em uma visão holística do universo. Essa abordagem combina sabedoria ancestral e reflexão contemporânea, oferecendo ao leitor uma compreensão mais profunda das energias que permeiam toda a existência.
+
+Sir Mário Honorário
+
+
 <div style="background-color: #F5F5DC; padding: 15px; font-family: Georgia, serif;">
   <div style="background-color: #E6F2FF; color: #1a1a1a; padding: 25px; border-radius: 8px; line-height: 1.6; font-size: 16px;">
 
