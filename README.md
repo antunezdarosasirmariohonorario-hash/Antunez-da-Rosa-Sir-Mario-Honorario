@@ -63,6 +63,39 @@ Assim, os quatorze raios universais oferecem um mapa simbólico da evolução es
 Sir Mário Honorário
 
 
+A sexagésima sétima profecia
+ Desde os primórdios, antes mesmo do judaísmo formal, existiam tradições antigas e espirituais — o fio hebraico, Avraham, Isaak  e Yakob, e práticas como os candelabros de sete braços, menorah e de nove, e chanukáh da passagem de ano, símbolos de comunicação e homenagem  ao Elohim (IHVH). 
+
+Essas tradições originais eram puras, ligadas à espiritualidade e à conexão com o divino.
+
+Com o tempo, textos e interpretações posteriores distorceram essas tradições, separando povos, criando distinções e críticas à outras formas de fé.
+
+ Tentando transformar e distorcer orientações dadas ao povo antigo hebreu, como se fossem regras de divisão entre nações de forma permanente.
+
+ É a partir desse ponto que surge o que chamamos de apartheid religioso: uma invenção política e humana, não espiritual, que corrompeu o propósito original da fé.
+
+ Colocando em D'us atributos humanos como ira, vingança  e ódio.
+
+Também promovendo incentivo à destruição de dogmas ou objetos e templos alheios de representação do divino.
+
+Promoveram uma forma presunçosa de posse particular das alturas, como se estas tivessem limitação a templos, líderes religiosos, ou formas de expressar a fé para contato ou milagres à humanidade, ou mesmo existirem como são, em seus atributos. 
+
+Humanos imporem  que o livro sagrado de um grupo religioso estaria errado, e o outro correto, como se as alturas fossem limitadas às explicações de livros físicos.
+
+Essa confusão — essa Babel simbólica — está agora à beira do colapso. Os eventos recentes, especialmente desde os ataques de 2023, não só expõem conflitos e fanatismos, mas também abalam as estruturas desse sistema corrompido. 
+
+Líderes políticos e religiosos, fanáticos de todos os lados, acabam sendo usados para manter a divisão e desviar a atenção de quem esclarece corretamente.
+
+O problema nunca foi um grupo específico — judeus, muçulmanos, cristãos, líderes políticos — mas as distorções introduzidas pelo espírito maligno em metáfora, que manipula a humanidade para alimentar o ódio e a separação, sem se mostrar diretamente.
+
+Para os esclarecidos, as profecias do fim dos tempos começam a se revelar gradualmente. Nenhum de nós conhece tudo; os sinais vão se encaixando aos poucos. Mas, com racionalidade, lógica e à luz da razão, observamos o colapso iminente da ilustrada torre de babel, analisando os eventos com diplomacia imparcial e discernimento, sem nos deixar levar por fanatismo ou narrativas prontas. Aliando a espiritualidade ao foco racional e lógico, temos as respostas mais sensatas.
+
+A 67 profecia, portanto, nos lembra: a queda das estruturas de divisão e manipulação é inevitável, e a clareza virá àqueles que mantêm os olhos abertos, aliado  ao pensamento crítico afiado e o espírito atento.
+
+Sir Mário Honorário
+
+
+
 <div style="background-color: #F5F5DC; padding: 15px; font-family: Georgia, serif;">
   <div style="background-color: #E6F2FF; color: #1a1a1a; padding: 25px; border-radius: 8px; line-height: 1.6; font-size: 16px;">
 
