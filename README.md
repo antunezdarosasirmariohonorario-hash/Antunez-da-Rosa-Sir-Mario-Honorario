@@ -62,6 +62,8 @@ Assim, os quatorze raios universais oferecem um mapa simbólico da evolução es
 
 Sir Mário Honorário
 
+_________________________________________________________
+
 
 A sexagésima sétima profecia
 
@@ -95,6 +97,10 @@ Para os esclarecidos, as profecias do fim dos tempos começam a se revelar gradu
 A 67 profecia, portanto, nos lembra: a queda das estruturas de divisão e manipulação é inevitável, e a clareza virá àqueles que mantêm os olhos abertos, aliado  ao pensamento crítico afiado e o espírito atento.
 
 Sir Mário Honorário
+
+____________________________________________________________
+
+
 
 
 
