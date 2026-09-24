@@ -40,6 +40,23 @@ main, .markdown-body, .container {
 }
 </script>
 
+```mermaid
+graph TD
+    %% Estilização de nós
+    classDef entrada fill:#238636,stroke:#2ea043,stroke-width:2px,color:#fff;
+    classDef decisao fill:#1f6beb,stroke:#388bfd,stroke-width:2px,color:#fff;
+    classDef conteudo fill:#8957e5,stroke:#a371f7,stroke-width:2px,color:#fff;
+
+    A[🌐 Visitante chega ao Domínio] :::entrada --> B[⚡ Landing Page / Resumo Rápido]
+    
+    B --> C{O usuário quer se aprofundar?}
+    
+    C -- "Não (Prefere resumo)" --> D[📌 Leste de 3 min / Infográfico]
+    C -- "Sim (Busca conteúdo denso)" --> E[📥 Download do PDF Completo] :::conteudo
+    
+    D --> F[🔗 Compartilha ou Retorna no futuro] :::decisao
+    E --> G[🧠 Leitura Técnica & Engajamento Alto] :::decisao
+
 <video width="100%" style="max-width: 560px; display: block; margin: 30px auto; border-radius: 6px;" controls>
   <source src="5259228573269456279_play.mp4_logo_BR.mp4" type="video/mp4">
   Seu navegador não suporta a exibição deste vídeo.
