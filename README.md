@@ -20,11 +20,23 @@
 }
 </script>
 
-<video width="100%" style="max-width: 560px; display: block; margin: 30px auto; border-radius: 6px;" controls>
-  <source src="5259228573269456279_play.mp4_logo_BR.mp4" type="video/mp4">
-  Seu navegador não suporta a exibição deste vídeo.
-</video>
+<div style="background-color: #F5F5DC; padding: 15px; font-family: Georgia, serif;">
+  <div style="background-color: #E6F2FF; color: #111111; padding: 25px; border-radius: 8px;">
 
-<p style="text-align: center; margin-top: 30px;">
-  Contato: <a href="mailto:antunezmariochevalier@gmail.com">antunezmariochevalier@gmail.com</a>
-</p>
+    <video width="100%" style="max-width: 560px; display: block; margin: 20px auto; border-radius: 6px;" controls>
+      <source src="5259228573269456279_play.mp4_logo_BR.mp4" type="video/mp4">
+      Seu navegador não suporta a exibição deste vídeo.
+    </video>
+
+    <!-- COLE SEU TEXTO E ARTIGOS ABAIXO DESTA LINHA -->
+
+
+
+    <!-- SEU TEXTO TERMINA AQUI -->
+
+    <p align="center" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #b0c4de;">
+      Contato: <a href="mailto:antunezmariochevalier@gmail.com" style="color: #004080; font-weight: bold;">antunezmariochevalier@gmail.com</a>
+    </p>
+
+  </div>
+</div>
