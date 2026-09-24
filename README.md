@@ -128,12 +128,7 @@
       <li>Crítica Socioeconômica e MultiPesquisas</li>
     </ul>
 
-    <h3>O Formato dos Horários do Trabalho a Nível de Brasil:</h3>
-    <ul>
-      <li>São Paulo (SP): 28,5%</li>
-      <li>Minas Gerais (MG): 10,2%</li>
-      <li>Rio de Janeiro (RJ): 8,8%</li>
-    </ul>
+    
 
     <h2>Espaço Filosófico:</h2>
     <p>Tanto um céu pré-concebido quanto um inferno pré-deduzido são erros que impedem uma pessoa de valorizar a vida terrena.<br>
