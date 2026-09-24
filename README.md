@@ -81,7 +81,7 @@
     <p>Se milhões de pessoas puderem atravessar fronteiras com facilidade, conhecer outras culturas, consumir, estudar, trabalhar e estabelecer relações econômicas e humanas, a integração deixará de ser apenas um projeto diplomático e passará a fazer parte da vida cotidiana.</p>
     <p>Nesse cenário, o turismo deixaria de ser apenas lazer e passaria a ser uma ferramenta de integração econômica, cultural e geopolítica.</p>
     <p>E talvez essa seja a forma mais gradual de construir uma ordem internacional verdadeiramente integrada: não obrigando as nações a se unificarem, mas fazendo com que tenham cada vez mais motivos para permanecerem unidas.</p>
-    <p><strong>Senhor Mário Honorário</strong></p>
+    <p><strong>Sir Mário Honorário</strong></p>
 
     <hr style="border: 0; border-top: 1px solid #b2ebf2; margin: 30px 0;">
 
@@ -102,7 +102,7 @@
     <p>-Deve estar com um cheiro de transpiração impregnado.</p>
     <p>As mídias e eventos dominam a fantasia de todos, e os atalhos mentais, de pessoas que apenas brigam com suas próprias projeções do que os demais seriam ou não.</p>
 
-    <p><strong>Senhor Mário Honorário</strong></p>
+    <p><strong>Sir Mário Honorário</strong></p>
 
     <hr style="border: 0; border-top: 1px solid #b2ebf2; margin: 30px 0;">
 
@@ -139,13 +139,13 @@
 
     <h2>Espaço Filosófico:</h2>
     <p>Tanto um céu pré-concebido quanto um inferno pré-deduzido são erros que impedem uma pessoa de valorizar a vida terrena.<br>
-    <strong>Senhor Mário Honorário</strong></p>
+    <strong>Sir Mário Honorário</strong></p>
 
     <h2>Reformulação Teosófica:</h2>
     <h3>“Os Quatorze Raios Universais: Uma Visão Surrealista e Esotérica”</h3>
     <p>Desde tempos antigos, tradições seguras afirmam a existência de sete raios ou potências universais...</p>
 
-    <!-- Botão do Kwai -->
+    <!-- Botão Clicável do Kwai -->
     <div style="margin: 30px 0; text-align: center;">
       <a href="https://m.kwai.com/user/150001625328767" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 14px 28px; background-color: #FF5000; color: #FFFFFF; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 18px; box-shadow: 0px 4px 6px rgba(0,0,0,0.2);">
         Siga o Perfil no Kwai
@@ -158,7 +158,7 @@
     <h3>A Questão das Plataformas de Vídeos Curtos no Modelo Asiático (Chinês):</h3>
     <p>O Kwai é um site que possui um traje invasivo, além de outros defeitos estruturais crassos.</p>
 
-    <p><strong>Senhor Mário Honorário</strong></p>
+    <p><strong>Sir Mário Honorário</strong></p>
 
     <div style="margin: 15px 0;">
       <p>Dossiê sobre políticas corporativas e autores independentes:</p>
