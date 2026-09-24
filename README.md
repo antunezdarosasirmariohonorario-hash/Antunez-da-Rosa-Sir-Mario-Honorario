@@ -42,20 +42,13 @@ main, .markdown-body, .container {
 
 ```mermaid
 graph TD
-    %% Estilização de nós
-    classDef entrada fill:#238636,stroke:#2ea043,stroke-width:2px,color:#fff;
-    classDef decisao fill:#1f6beb,stroke:#388bfd,stroke-width:2px,color:#fff;
-    classDef conteudo fill:#8957e5,stroke:#a371f7,stroke-width:2px,color:#fff;
+    A[Visitante chega ao Dominio] --> B[Landing Page / Resumo Rapido]
+    B --> C{O usuario quer se aprofundar?}
+    C -- Nao (Prefere resumo) --> D[Leitura de 3 min / Infografico]
+    C -- Sim (Busca conteudo denso) --> E[Download do PDF Completo]
+    D --> F[Compartilha ou Retorna no futuro]
+    E --> G[Leitura Tecnica e Engajamento Alto]
 
-    A[🌐 Visitante chega ao Domínio] :::entrada --> B[⚡ Landing Page / Resumo Rápido]
-    
-    B --> C{O usuário quer se aprofundar?}
-    
-    C -- "Não (Prefere resumo)" --> D[📌 Leste de 3 min / Infográfico]
-    C -- "Sim (Busca conteúdo denso)" --> E[📥 Download do PDF Completo] :::conteudo
-    
-    D --> F[🔗 Compartilha ou Retorna no futuro] :::decisao
-    E --> G[🧠 Leitura Técnica & Engajamento Alto] :::decisao
 
 <video width="100%" style="max-width: 560px; display: block; margin: 30px auto; border-radius: 6px;" controls>
   <source src="5259228573269456279_play.mp4_logo_BR.mp4" type="video/mp4">
@@ -73,7 +66,7 @@ As ideologias Associadas a Mário Enrique Antúnez da Rosa
 
 Teoria da Mobilidade Integracionista entre Nações:
 
-Imagine uma política internacional em que os governos deixassem de enxergar as viagens internacionais apenas como uma atividade de consumo e passassem a tratá-las como investimento estratégico na integração entre os povos.
+Imagine uma política internacional em que os governos deixassem de enxergar as viagens internacionais apenas como uma atividade de consumo e passassem a tratá-las como investimento estrestratégicointegração entre os povos.
 
 A lógica seria relativamente simples: o Estado poderia subsidiar ou reduzir drasticamente o custo de determinadas viagens internacionais, tornando-as acessíveis a uma parcela muito maior da população. À primeira vista, isso representaria uma despesa pública. Entretanto, o viajante que chega a outro país não leva apenas o dinheiro da passagem: ele consome hospedagem, alimentação, transporte, entretenimento, produtos e serviços, movimentando empresas e trabalhadores tanto no país de origem quanto no destino.
 
