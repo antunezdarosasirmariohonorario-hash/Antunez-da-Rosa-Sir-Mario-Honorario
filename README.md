@@ -35,8 +35,7 @@ main, .markdown-body, .container {
     "https://github.com/antunezdaro",
     "https://doi.org/10.5281/zenodo.22237087",
     "https://doi.org/10.5281/zenodo.22168255",
-    "https://doi.org/10.5281/zenodo.20754063"
-  ]
+    "https://doi.org/10.5281/zenodo.20754063"]
 Multilateralismo- Mário Enrique Antúnez da Rosa 
 <p align="center">
   <img src="./Mario-Enrique-Antunez-da-Rosa-Sir-Mario-Honorario.png" alt="Mário Enrique Antúnez da Rosa - Sir Mário Honorário" width="300"/>
