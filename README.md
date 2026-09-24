@@ -33,7 +33,7 @@
     <h2>Documentos Disponíves As Ideologias Associadas a Mário Enrique Antúnez da Rosa</h2>
 
     <h3>Teoria da Mobilidade Integracionista entre Nações:</h3>
-    <p>Imagine uma política internacional em que os governos deixem de enxergar as viagens apenas internacionais como uma atividade de consumo e passem a tratá-las como investimento estratégico na integração entre os povos.</p>
+    <p>Imagine uma política internacional em que os governos deixem de enregar as viagens apenas internacionais como uma atividade de consumo e passem a tratá-las como investimento estratégico na integração entre os povos.</p>
     <p>A lógica seria relativamente simples: o Estado poderia subsidiar ou reduzir drasticamente o custo de determinadas viagens internacionais, tornando-as acessíveis a uma parcela muito maior da população. À primeira vista, isso representaria uma despesa pública. Entretanto, o viajante que chega a outro país não leva apenas o dinheiro da passagem: ele consome hospedagem, alimentação, transporte, entretenimento, produtos e serviços, movimentando empresas e trabalhadores tanto no país de origem quanto no destino.</p>
     <p>Assim, parte do dinheiro investido inicialmente pelo Estado retornaria à economia por meio da atividade comercial, da arrecadação e da geração de empregos. O objetivo não seria simplesmente oferecer viagens baratas, mas estimular um fluxo permanente de pessoas, recursos, conhecimento e relações econômicas entre diferentes sociedades.</p>
 
@@ -112,13 +112,13 @@
 
     <p>Os livros e documento abaixo em pdf podem ser lidos e estão disponíveis para pdf.</p>
     <ul>
-      <li>Acessar Documento de Karatê (PDF)</li>
-      <li>Baixar/Visualizar o PDF (A Teoria do Anestésico Social de Crescimento Controlado)</li>
+      <li><a href="Documento_de_Karate.pdf" target="_blank" style="color: #004080; font-weight: bold;">Acessar Documento de Karatê (PDF)</a></li>
+      <li><a href="A_Teoria_do_Anestesico_Social_de_Crescimento_Controlado.pdf" target="_blank" style="color: #004080; font-weight: bold;">Baixar/Visualizar o PDF (A Teoria do Anestésico Social de Crescimento Controlado)</a></li>
     </ul>
 
     <p>Análise as perspectivas políticas, laicismo, antiautoritarismo e organização social expressas no trabalho.</p>
     <p>Antúnez da Rosa "Sir Mário Honorário":<br>
-    📄 Baixar/Visualizar o PDF (Formação de Sir Mário Honorário)</p>
+    📄 <a href="Formacao_de_Sir_Mario_Honorario.pdf" target="_blank" style="color: #004080; font-weight: bold;">Baixar/Visualizar o PDF (Formação de Sir Mário Honorário)</a></p>
 
     <h3>Sobre a Permissão de Crítica aos Deuses na Grécia Antiga:</h3>
     <p>O teatro funcionava como uma "válvula de escape" social totalmente controlada e institucionalizada pelo Estado:</p>
@@ -257,13 +257,13 @@
     <p><strong>Senhor Mário Honorário</strong></p>
 
     <p>Tratado sobre Pesquisa Paranormal e Anômala de UAP's, um dos livros sobre o horizonte de Pesquisa Mística:<br>
-    📄 Baixar/Visualizar o PDF (Tratado Prático e Eficaz)</p>
+    📄 <a href="Tratado_Pratico_e_Eficaz.pdf" target="_blank" style="color: #004080; font-weight: bold;">Baixar/Visualizar o PDF (Tratado Prático e Eficaz)</a></p>
 
     <p>Este dossiê explica o impacto das políticas corporativas, em detrimento da visibilidade e voz de autores independentes, que possuem críticas estruturais ao sistema que privilegia autores já consagrados, prejudicando a inovação literária:<br>
-    📄 Acessar Dossiê em PDF (Amazon KDP)</p>
+    📄 <a href="Acessar_Dossie_Amazon_KDP.pdf" target="_blank" style="color: #004080; font-weight: bold;">Acessar Dossiê em PDF (Amazon KDP)</a></p>
 
     <p>Inovadora Profecia Atual, a Sexagésima Sétima Profecia:<br>
-    📄 Baixar/Visualizar o PDF (A Sexagésima Sétima Profecia)</p>
+    📄 <a href="A_Sexagesima_Setima_Profecia.pdf" target="_blank" style="color: #004080; font-weight: bold;">Baixar/Visualizar o PDF (A Sexagésima Sétima Profecia)</a></p>
 
     <p>🔗 <strong>Identificação Acadêmica:</strong><br>
     ORCID iD: 0009-0007-1969-2835<br>
