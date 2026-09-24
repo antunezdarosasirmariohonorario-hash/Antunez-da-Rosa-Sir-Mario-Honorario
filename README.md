@@ -64,6 +64,8 @@ Sir Mário Honorário
 
 
 A sexagésima sétima profecia
+
+
  Desde os primórdios, antes mesmo do judaísmo formal, existiam tradições antigas e espirituais — o fio hebraico, Avraham, Isaak  e Yakob, e práticas como os candelabros de sete braços, menorah e de nove, e chanukáh da passagem de ano, símbolos de comunicação e homenagem  ao Elohim (IHVH). 
 
 Essas tradições originais eram puras, ligadas à espiritualidade e à conexão com o divino.
