@@ -144,8 +144,7 @@
     <h2>Perfil Acadêmico e Publicações Completas</h2>
     <p><strong>O Conceito de Honorário (Estrutura Externa):</strong> No Direito Constitucional, no Direito Internacional e no Direito Nobiliárquico...</p>
 
-    <h3>A Questão das Plataformas de Vídeos Curtos no Modelo Asiático (Chinês):</h3>
-    <p>O Kwai é um site que possui um traje invasivo, além de outros defeitos estruturais crassos.</p>
+    
 
     <p><strong>Sir Mário Honorário</strong></p>
 
