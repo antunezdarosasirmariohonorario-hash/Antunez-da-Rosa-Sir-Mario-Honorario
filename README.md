@@ -40,17 +40,9 @@ main, .markdown-body, .container {
 }
 </script>
 
-```mermaid
-graph TD
-    A[Visitante chega ao Dominio] --> B[Landing Page / Resumo Rapido]
-    B --> C{O usuario quer se aprofundar?}
-    C -- Nao (Prefere resumo) --> D[Leitura de 3 min / Infografico]
-    C -- Sim (Busca conteudo denso) --> E[Download do PDF Completo]
-    D --> F[Compartilha ou Retorna no futuro]
-    E --> G[Leitura Tecnica e Engajamento Alto]
 
 
-<video width="100%" style="max-width: 560px; display: block; margin: 30px auto; border-radius: 6px;" controls>
+video width="100%" style="max-width: 560px; display: block; margin: 30px auto; border-radius: 6px;" controls>
   <source src="5259228573269456279_play.mp4_logo_BR.mp4" type="video/mp4">
   Seu navegador não suporta a exibição deste vídeo.
 </video>
