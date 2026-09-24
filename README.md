@@ -20,6 +20,18 @@
 }
 </script>
 
+Anotações esporádicas:
+
+A trajetória do Gnose
+ Os gregos tiveram uma escola de conhecimento, dentre filosofia, que vem a ser a busca do ser para explicação da existência, por meio da reflexão, no meio de tudo isso, que foi vivenciado entre eles, haviam raízes das mais antigas etnias da história da humanidade, a exemplo dos Indianos, descendentes da outra civilização de Lemúria, assim como outra civilização  também antiga, a África, de outras civilizações ancestrais, das quais os escassos sobreviventes eram, semelhantes aos Indianos e afro-descendentes.
+
+ Houveram outras civilizações avançadas, e, com tecnologia de ponta, não obstante, o que restou deles, apenas chip's, que encontrados, nada se sabe para que serviam, de tão intrigantes, quanto as pedras roladas que porventura achamos, com cortes perfeitos, como uma faca que cortara um pedaço de cera, estando com a lâmina incandescente de tanto calor.
+
+ Abaixo do mar báltico, em contradição ao esperado previamente pela ciência, foi encontrado um fato empírico de comprovação disto, com construções bem arrojadas, para se tratar de pouco avanço tão alegado, sobre uma era de civilizações anteriores. 
+
+SirMárioHonorário
+
+
 
 Reformulação Teosófica: “Os Quatorze Raios Universais: Uma Visão Surrealista e Esotérica”
  Desde tempos antigos, tradições espirituais afirmam a existência de sete raios ou potências universais, cada um associado a cores, mestres e energias cósmicas. No entanto, observações contemporâneas e estudos simbólicos sugerem que são quatorze as forças estelares que estruturam o universo, cada uma revelando aspectos fundamentais da existência e da consciência.
