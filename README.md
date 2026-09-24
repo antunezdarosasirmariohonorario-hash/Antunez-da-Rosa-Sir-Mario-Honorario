@@ -118,8 +118,6 @@
       <a href="Formação de Sir Mário Honorário.pdf" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: #004080; color: #ffffff; text-decoration: none; border-radius: 6px; font-weight: bold;">Baixar/Visualizar PDF (Formação de Sir Mário Honorário)</a>
     </div>
 
-    <h3>Sobre a Permissão de Crítica aos Deuses na Grécia Antiga:</h3>
-    <p>O teatro funcionava como uma "válvula de escape" social totalmente controlada e institucionalizada pelo Estado...</p>
 
     <p>Perfil Literário e Textos no Recanto das Letras : Coletânea de ensaios, poesias e produções textuais publicadas na plataforma.</p>
 
@@ -140,10 +138,6 @@
     <h2>Espaço Filosófico:</h2>
     <p>Tanto um céu pré-concebido quanto um inferno pré-deduzido são erros que impedem uma pessoa de valorizar a vida terrena.<br>
     <strong>Sir Mário Honorário</strong></p>
-
-    <h2>Reformulação Teosófica:</h2>
-    <h3>“Os Quatorze Raios Universais: Uma Visão Surrealista e Esotérica”</h3>
-    <p>Desde tempos antigos, tradições seguras afirmam a existência de sete raios ou potências universais...</p>
 
     <!-- Botão Clicável do Kwai -->
     <div style="margin: 30px 0; text-align: center;">
