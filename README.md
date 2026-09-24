@@ -236,10 +236,7 @@ ____________________________________________________________
       <p>Dossiê sobre políticas corporativas e autores independentes:</p>
       <a href="Amazon_KDP_O_Dossiê_de_Registro_de_Censura_e_Abuso_Corporativo_Digital.pdf" target="_blank" style="display: inline-block; padding: 12px 20px; margin: 5px 0; background-color: #004080; color: #ffffff; text-decoration: none; border-radius: 6px; font-weight: bold;">Acessar Dossiê em PDF (Amazon KDP)</a><br>
 
-      <p>A Sexagésima Sétima Profecia:</p>
-      <a href="A sexagésima séptima profecia.pdf" target="_blank" style="display: inline-block; padding: 12px 20px; margin: 5px 0; background-color: #004080; color: #ffffff; text-decoration: none; border-radius: 6px; font-weight: bold;">Baixar/Visualizar PDF (A Sexagésima Sétima Profecia)</a>
-    </div>
-
+      
     <p style="margin-top: 30px;">🔗 <strong>Identificação Acadêmica:</strong><br>
     ORCID iD: 0009-0007-1969-2835<br>
     Site: <a href="https://marioenriqueantunezdarosa.com.br" target="_blank" style="color: #004080; font-weight: bold;">marioenriqueantunezdarosa.com.br</a></p>
