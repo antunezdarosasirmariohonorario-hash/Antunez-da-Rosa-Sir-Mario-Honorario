@@ -226,9 +226,9 @@ ____________________________________________________________
     </div>
 
     <h2>Perfil Acadêmico e Publicações Completas</h2>
-    <p><strong>O Conceito de Honorário (Estrutura Externa):</strong> No Direito Constitucional, no Direito Internacional e no Direito Nobiliárquico...</p>
-
     
+
+    Sir Mário Honorário - Perfil de Recanto das Letras
 
     <p><strong>Sir Mário Honorário</strong></p>
 
