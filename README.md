@@ -28,11 +28,7 @@
       Seu navegador não suporta a exibição deste vídeo.
     </video>
 
-    <!-- COLE SEU TEXTO E ARTIGOS ABAIXO DESTA LINHA -->
-
-
-
-    <!-- SEU TEXTO TERMINA AQUI -->
+    
 
     <p align="center" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #b0c4de;">
       Contato: <a href="mailto:antunezmariochevalier@gmail.com" style="color: #004080; font-weight: bold;">antunezmariochevalier@gmail.com</a>
