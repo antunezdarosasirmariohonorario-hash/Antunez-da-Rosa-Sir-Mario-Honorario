@@ -24,3 +24,7 @@
   <source src="5259228573269456279_play.mp4_logo_BR.mp4" type="video/mp4">
   Seu navegador não suporta a exibição deste vídeo.
 </video>
+
+<p style="text-align: center; margin-top: 30px;">
+  Contato: <a href="mailto:antunezmariochevalier@gmail.com">antunezmariochevalier@gmail.com</a>
+</p>
