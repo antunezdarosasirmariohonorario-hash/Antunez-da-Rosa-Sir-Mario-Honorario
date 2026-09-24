@@ -37,9 +37,6 @@ main, .markdown-body, .container {
     "https://doi.org/10.5281/zenodo.22168255",
     "https://doi.org/10.5281/zenodo.20754063"
   ]
-}
-</script>
-
 
 
 video width="100%" style="max-width: 560px; display: block; margin: 30px auto; border-radius: 6px;" controls>
