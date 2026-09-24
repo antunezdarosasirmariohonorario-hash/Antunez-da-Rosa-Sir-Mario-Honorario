@@ -512,4 +512,4 @@ Inovadora Profecia Atual, a Sexagésima Sétima Profecia:
 
 **ORCID iD:** [0009-0007-1969-2835](https://orcid.org/0009-0007-1969-2835)
 * **Site:** [marioenriqueantunezdarosa.com.br](https://marioenriqueantunezdarosa.com.br/)
-**Contato:** [antunezmariochevalier@gmail.com](mailto:antunezmariochevalier@gmail.com)
+**Contato:** [
