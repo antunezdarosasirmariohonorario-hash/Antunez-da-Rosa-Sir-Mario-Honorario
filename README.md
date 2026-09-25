@@ -342,5 +342,12 @@ ___________________________________________
 </div>
 
 
+---
+
+![Rodapé Filosófico - sir Mário Honorário](Screenshot_20260924-220235.png)
+
+
+
+
 
 
