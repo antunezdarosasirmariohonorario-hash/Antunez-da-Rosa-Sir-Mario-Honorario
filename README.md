@@ -129,6 +129,9 @@ ____________________________________________________________
 <div style="background-color: #F5F5DC; padding: 15px; font-family: Georgia, serif;">
   <div style="background-color: #E6F2FF; color: #1a1a1a; padding: 25px; border-radius: 8px; line-height: 1.6; font-size: 16px;">
 
+
+
+
     <video width="100%" style="max-width: 560px; display: block; margin: 20px auto; border-radius: 6px;" controls>
       <source src="5259228573269456279_play.mp4_logo_BR.mp4" type="video/mp4">
       Seu navegador não suporta a exibição deste vídeo.
@@ -258,9 +261,17 @@ ____________________________________________________________
       <p>Dossiê sobre políticas corporativas e autores independentes:</p>
       <a href="Amazon_KDP_O_Dossiê_de_Registro_de_Censura_e_Abuso_Corporativo_Digital.pdf" target="_blank" style="display: inline-block; padding: 12px 20px; margin: 5px 0; background-color: #004080; color: #ffffff; text-decoration: none; border-radius: 6px; font-weight: bold;">Acessar Dossiê em PDF (Amazon KDP)</a><br>
 
+
+
+<a href="https://orcid.org/0009-0007-1969-2835" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;color:#A6CE39;text-decoration:none;font-family:Arial,sans-serif;font-size:14px;">
+    <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD icon" style="width:16px;height:16px;margin-right:6px;">
+    https://orcid.org/0009-0007-1969-2835
+</a>
+
       
-    <p style="margin-top: 30px;">🔗 <strong>Identificação Acadêmica:</strong><br>
-    ORCID iD: 0009-0007-1969-2835<br>
+
+
+    
     Site: <a href="https://marioenriqueantunezdarosa.com.br" target="_blank" style="color: #004080; font-weight: bold;">marioenriqueantunezdarosa.com.br</a></p>
 
     <p align="center" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #b2ebf2;">
