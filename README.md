@@ -340,3 +340,44 @@ ___________________________________________
     orcid.org/0009-0007-1969-2835
   </a>
 </div>
+
+
+<div style="text-align: center; margin-top: 80px; padding: 40px 20px; border-top: 1px solid #d4af37; font-family: Georgia, serif; color: #333;">
+    <!-- Ornamentos dourados superiores -->
+    <div style="margin-bottom: 25px; color: #d4af37; font-size: 18px; letter-spacing: 5px;">
+        ❖ ❧ ❖
+    </div>
+    
+    <!-- Citação filosófica principal -->
+    <blockquote style="font-style: italic; font-size: 16px; line-height: 1.6; max-width: 600px; margin: 0 auto 30px auto; color: #2c2c2c;">
+        "Homens, não sabeis compreender os próprios homens e ousais tentar explicar os deuses?"
+    </blockquote>
+
+    <!-- Bloco com as Musas nas laterais -->
+    <div style="display: flex; justify-content: space-around; align-items: center; max-width: 700px; margin: 30px auto; flex-wrap: wrap; gap: 20px;">
+        <!-- Musa 1 -->
+        <div style="max-width: 220px; font-size: 12px; color: #666; font-style: italic;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Euterpe_Muse_of_Music_Roman_mosaic_Lucca.jpg/320px-Euterpe_Muse_of_Music_Roman_mosaic_Lucca.jpg" alt="Musa Clássica" style="width: 100%; border: 1px solid #d4af37; border-radius: 4px; margin-bottom: 8px;">
+            Musa da Antiguidade
+        </div>
+        
+        <!-- Musa 2 -->
+        <div style="max-width: 220px; font-size: 12px; color: #666; font-style: italic;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Musa_Clio.jpg/320px-Musa_Clio.jpg" alt="Musa Clássica" style="width: 100%; border: 1px solid #d4af37; border-radius: 4px; margin-bottom: 8px;">
+            Musa da História
+        </div>
+    </div>
+    
+    <!-- Ornamentos dourados inferiores -->
+    <div style="margin: 25px 0 20px 0; color: #d4af37; font-size: 18px; letter-spacing: 5px;">
+        ❖ ❧ ❖
+    </div>
+
+    <!-- Assinatura oficial rigorosamente sem vírgula -->
+    <div style="font-size: 18px; font-family: Georgia, serif; color: #2c2c2c; letter-spacing: 0.5px;">
+        sir Mário Honorário
+    </div>
+</div>
+
+
+
