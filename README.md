@@ -32,6 +32,17 @@ A trajetória do Gnose
 SirMárioHonorário
 
 
+________________________________________
+
+
+
+<a href="https://www.recantodasletras.com.br/autores/fatordesconhecido" target="_blank" rel="noopener noreferrer">https://www.recantodasletras.com.br/autores/fatordesconhecido</a>
+
+
+
+________________________________________
+
+
 
 Reformulação Teosófica: “Os Quatorze Raios Universais: Uma Visão Surrealista e Esotérica”
  Desde tempos antigos, tradições espirituais afirmam a existência de sete raios ou potências universais, cada um associado a cores, mestres e energias cósmicas. No entanto, observações contemporâneas e estudos simbólicos sugerem que são quatorze as forças estelares que estruturam o universo, cada uma revelando aspectos fundamentais da existência e da consciência.
