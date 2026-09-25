@@ -342,9 +342,12 @@ ___________________________________________
 </div>
 
 
----
 
-![Rodapé Filosófico - sir Mário Honorário](Screenshot_20260924-220235.png)
+<div style="text-align: center; margin-top: 40px; padding: 20px 0;">
+    <img src="Screenshot_20260924-220235.png" alt="Rodapé Filosófico - sir Mário Honorário" style="max-width: 100%; height: auto; border: 1px solid #d4af37; border-radius: 4px;">
+</div>
+
+
 
 
 
