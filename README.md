@@ -344,24 +344,3 @@ ___________________________________________
 
 
 
-<div style="text-align: center; margin-top: 80px; padding: 40px 20px; border-top: 1px solid #d4af37; font-family: Georgia, serif; color: #333;">
-    <!-- Ornamentos dourados superiores -->
-    <div style="margin-bottom: 25px; color: #d4af37; font-size: 18px; letter-spacing: 5px;">
-        ❖ ❧ ❖
-    </div>
-    
-    <!-- Citação filosófica principal -->
-    <blockquote style="font-style: italic; font-size: 16px; line-height: 1.6; max-width: 600px; margin: 0 auto 30px auto; color: #2c2c2c;">
-        "Homens, não sabeis compreender os próprios homens e ousais tentar explicar os deuses?"
-    </blockquote>
-
-    <!-- Ornamentos dourados inferiores -->
-    <div style="margin: 25px 0 20px 0; color: #d4af37; font-size: 18px; letter-spacing: 5px;">
-        ❖ ❧ ❖
-    </div>
-
-    <!-- Assinatura oficial rigorosamente sem vírgula -->
-    <div style="font-size: 18px; font-family: Georgia, serif; color: #2c2c2c; letter-spacing: 0.5px;">
-        sir Mário Honorário
-    </div>
-</div>
