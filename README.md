@@ -191,7 +191,7 @@ ____________________________________________________________
 
     <h3>A interdependência como instrumento de paz</h3>
     <p>Existe ainda uma consequência econômica e política.</p>
-    <p>Quanto mais dois países dependem do outro para turismo, comércio, serviços, educação, investimentos e circulação de pessoas, maior se torna o custo de um rompimento entre eles.</p>
+    <p>Quanto mais dois países dependem do outro paradivrismo, comércio, serviços, educação, investimentos e circulação de pessoas, maior se torna o custo de um rompimento entre eles.</p>
     <p>Uma relação internacional deixa de ser exclusivamente uma negociação entre governos e passa a envolver milhões de interesses concretos: empresas, trabalhadores, estudantes, famílias, consumidores e pequenos comerciantes.</p>
     <p>A integração, portanto, poderia funcionar como uma espécie de rede de interesses compartilhados.</p>
     <p>Quanto maior a rede, maior o incentivo para preservá-la.</p>
@@ -342,6 +342,8 @@ ___________________________________________
 </div>
 
 
+
+
 <div style="text-align: center; margin-top: 80px; padding: 40px 20px; border-top: 1px solid #d4af37; font-family: Georgia, serif; color: #333;">
     <!-- Ornamentos dourados superiores -->
     <div style="margin-bottom: 25px; color: #d4af37; font-size: 18px; letter-spacing: 5px;">
@@ -353,21 +355,6 @@ ___________________________________________
         "Homens, não sabeis compreender os próprios homens e ousais tentar explicar os deuses?"
     </blockquote>
 
-    <!-- Bloco com as Musas nas laterais -->
-    <div style="display: flex; justify-content: space-around; align-items: center; max-width: 700px; margin: 30px auto; flex-wrap: wrap; gap: 20px;">
-        <!-- Musa 1 -->
-        <div style="max-width: 220px; font-size: 12px; color: #666; font-style: italic;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Euterpe_Muse_of_Music_Roman_mosaic_Lucca.jpg/320px-Euterpe_Muse_of_Music_Roman_mosaic_Lucca.jpg" alt="Musa Clássica" style="width: 100%; border: 1px solid #d4af37; border-radius: 4px; margin-bottom: 8px;">
-            Musa da Antiguidade
-        </div>
-        
-        <!-- Musa 2 -->
-        <div style="max-width: 220px; font-size: 12px; color: #666; font-style: italic;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Musa_Clio.jpg/320px-Musa_Clio.jpg" alt="Musa Clássica" style="width: 100%; border: 1px solid #d4af37; border-radius: 4px; margin-bottom: 8px;">
-            Musa da História
-        </div>
-    </div>
-    
     <!-- Ornamentos dourados inferiores -->
     <div style="margin: 25px 0 20px 0; color: #d4af37; font-size: 18px; letter-spacing: 5px;">
         ❖ ❧ ❖
@@ -378,6 +365,3 @@ ___________________________________________
         sir Mário Honorário
     </div>
 </div>
-
-
-
