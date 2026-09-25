@@ -239,7 +239,23 @@ ____________________________________________________________
     </div>
 
 
+________________________________________
+
+
+
     <p>Perfil Literário e Textos no Recanto das Letras : Coletânea de ensaios, poesias e produções textuais publicadas na plataforma.</p>
+
+
+
+<div style="font-family: monospace; font-size: 13px; color: #666;">
+  Perfil: <a href="https://www.recantodasletras.com.br/autores/fatordesconhecido" target="_blank" rel="noopener noreferrer" style="color: #0366d6; text-decoration: none;">https://www.recantodasletras.com.br/autores/fatordesconhecido</a>
+</div>
+
+
+___________________________________________
+
+
+
 
     <h4>Temas principais</h4>
     <ul>
