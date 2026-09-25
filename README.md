@@ -259,3 +259,11 @@ ____________________________________________________________
 
   </div>
 </div>
+
+
+<div itemscope itemtype="https://schema.org/Person">
+  <a itemprop="sameAs" content="https://orcid.org/0009-0007-1969-2835" href="https://orcid.org/0009-0007-1969-2835" target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:#999;font-size:12px;display:inline-flex;align-items:center;">
+    <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD" style="width:16px;height:16px;margin-right:4px;vertical-align:middle;">
+    orcid.org/0009-0007-1969-2835
+  </a>
+</div>
