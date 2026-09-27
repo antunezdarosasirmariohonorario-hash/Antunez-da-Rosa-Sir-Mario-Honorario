@@ -1,18 +1,4 @@
 
-        ❖ ❧ ❖
-    </div>
-    
-    <!-- A frase principal -->
-    <blockquote style="font-style: italic; font-size: 16px; line-height: 1.6; max-width: 600px; margin: 0 auto; color: #2c2c2c;">
-        "Homens, não sabeis compreender os próprios homens e ousais tentar explicar os deuses?"
-    </blockquote>
-    
-    <!-- Elemento decorativo inferior -->
-    <div style="margin-top: 15px; color: #d4af37; font-size: 18px; letter-spacing: 5px;">
-        ❖ ❧ ❖
-    </div>
-</div>
-
 __________________________________________
 
 
