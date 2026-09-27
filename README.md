@@ -43,7 +43,6 @@
 </div>
 
 
-[A Engenharia Ergonômica Salutar vertebral no Vernacular](https://vufind2.lib.aegean.gr/EdsRecord/edsair.doi.dedup.....12fc5d894791fb0a1a95d6f87dbf96b0)
 
 
 
