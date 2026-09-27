@@ -1,33 +1,4 @@
-existêncian">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Person",
-      "@id": "https://marioenriqueantunezdarosa.com.br/#pessoa",
-      "name": "Mário Enrique Antúnez da Rosa",
-      "alternateName": "Sir Mário Honorário",
-      "url": "https://marioenriqueantunezdarosa.com.br",
-      "sameAs": [
-        "https://orcid.org/0009-0007-1969-2835",
-        "https://github.com/antunezdaro",
-        "https://doi.org/10.5281/zenodo.22237087",
-        "https://doi.org/10.5281/zenodo.22168255",
-        "https://doi.org/10.5281/zenodo.20754063"
-      ]
-    }
-  ]
-}
-</script>
 
-
-<div style="text-align: center; margin-top: 60px; padding: 40px 20px; border-top: 1px solid #d4af37; font-family: Georgia, serif; color: #333;">
-    <!-- Elemento decorativo superior (simulando folhas/louros minimalistas em SVG dourado) -->
-    <div style="margin-bottom: 15px; color: #d4af37; font-size: 18px; letter-spacing: 5px;">
-
-
-
-      
         ❖ ❧ ❖
     </div>
     
