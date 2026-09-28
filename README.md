@@ -252,12 +252,7 @@ ___________________________________________
     <p>Tanto um céu pré-concebido quanto um inferno pré-deduzido são erros que impedem uma pessoa de valorizar a vida terrena.<br>
     <strong>Sir Mário Honorário</strong></p>
 
-    <!-- Botão Clicável do Kwai -->
-    <div style="margin: 30px 0; text-align: center;">
-      <a href="https://m.kwai.com/user/150001625328767" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 14px 28px; background-color: #FF5000; color: #FFFFFF; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 18px; box-shadow: 0px 4px 6px rgba(0,0,0,0.2);">
-        Siga o Perfil no Kwai
-      </a>
-    </div>
+    
 
     <h2>Perfil Acadêmico e Publicações Completas</h2>
     
