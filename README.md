@@ -70,6 +70,50 @@ Sir Mário Honorário
 _________________________________________________________
 
 
+
+Das salas enormes em estilo coríntio..
+
+Da afamada Biblioteca Pública de Porto Alegre,
+
+Nunca tive a certeza nessa época, se aqueles detalhes das colunas em entalhes protegida por 90 % da população local e alguns altos intelectuais, eram de ouro maciço.
+
+ 
+
+De lá saiu esta inspiração de uma história exótica,
+
+de qual relato Olímpico do lar das Divindades Gregas, aqui se narra:
+
+ 
+
+Disse um coágulo a outro numa poça de nutrientes;
+
+ 
+
+-Oh....Você não combina com meu conteúdo,fique mais afastado,junto dos outros elementos..
+
+ 
+
+E uma substância,foi falando à outra pra se afastar, ou ír a certo grupo de elementos, e o mesmo se deu no Cosmo, um item foi se atraindo ao outro semelhante a ele, ainda outros se fundiram entre sí, gerando novas coisas, desse casamento alquímico-transcedental, embora também químico.
+
+ 
+
+E foram-se formando novos conjuntos e até órgãos com esse agrupamento e divisão também fusão e liga entre eles.
+
+ 
+
+Inclusive os corpos celestes foram surgindo,
+
+um elemento muito ácido e neutro foi formando a "bílis" num corpo.
+
+ 
+
+E assim nasceu o Cosmo, o Universo, e o Homem.
+
+SirMárioHonorário
+
+_____________________________________________
+
+
 <a href="https://orcid.org/0009-0007-1969-2835" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;color:#A6CE39;text-decoration:none;font-family:Arial,sans-serif;font-size:14px;">
     <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD icon" style="width:16px;height:16px;margin-right:6px;">
     https://orcid.org/0009-0007-1969-2835
