@@ -1,4 +1,6 @@
-<a href="https://k.kwai.com/u/@stream_sirmario_01/4Cn2lA2q" target="_blank" rel="noopener noreferrer">Meu Perfil no Kwai</a>
+<a href="https://k.kwai.com/u/@stream_sirmario_01/4Cn2lA2q" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #FF5722; color: white; padding: 10px 20px; font-family: sans-serif; font-weight: bold; text-decoration: none; border-radius: 5px; transition: background 0.3s;">
+    Visite meu Kwai
+</a>
 __________________________________________
 
 
