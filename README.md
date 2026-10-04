@@ -7,7 +7,7 @@ __________________________________________
 Anotações esporádicas:
 
 A trajetória do Gnose
- Os gregos tiveram uma escola de conhecimento, dentre filosofia, que vem a ser a busca do ser para explicação da existência, porção da existência, pormeio de tudo isso, que foi vivenciado entre eles, haviam raízes das mais antigas etnias da história da humanidade, a exemplo dos Indianos, descendentes da outra civilização de Lemúria, assim como outra civilização  também antiga, a África, de outras civilizações ancestrais, das quais os escassos sobreviventes eram, semelhantes aos Indianos e afro-descendentes.
+ Os gregos tiveram uma escola de conhecimento, dentre filosofia, que vem a ser a busca do ser para explicação da existência, porção da existência, por meio de tudo isso, que foi vivenciado entre eles, haviam raízes das mais antigas etnias da história da humanidade, a exemplo dos Indianos, descendentes da outra civilização de Lemúria, assim como outra civilização  também antiga, a África, de outras civilizações ancestrais, das quais os escassos sobreviventes eram, semelhantes aos Indianos e afro-descendentes.
 
  Houveram outras civilizações avançadas, e, com tecnologia de ponta, não obstante, o que restou deles, apenas chip's, que encontrados, nada se sabe para que serviam, de tão intrigantes, quanto as pedras roladas que porventura achamos, com cortes perfeitos, como uma faca que cortara um pedaço de cera, estando com a lâmina incandescente de tanto calor.
 
