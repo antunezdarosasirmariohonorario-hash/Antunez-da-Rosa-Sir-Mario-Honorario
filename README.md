@@ -1,3 +1,9 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7350343912863847"
+     crossorigin="anonymous"></script>
+
+
+
+
 Kwaiihref="https://k.kwai.com/u/@stream_sirmario_01/4Cn2lA2q" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #FF5722; color: white; padding: 10px 20px; font-family: sans-serif; font-weight: bold; text-decoration: none; border-radius: 5px; transition: background 0.3s;">
     Visite meu Kwai
 </a>
