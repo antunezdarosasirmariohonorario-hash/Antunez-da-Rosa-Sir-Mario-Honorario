@@ -181,45 +181,39 @@ _________________________________________________________
 
 
 
-Das salas enormes em estilo coríntio..
+<p style="font-family: Georgia, serif; margin-bottom: 1.2rem; color: #222222;">
+    Das salas enormes em estilo coríntio..<br>
+    Da famosa Biblioteca Pública de Porto Alegre,<br>
+    Nunca tive a certeza nessa época, se aqueles detalhes das colunas em destaques protegidos por 90% da população local e alguns altos intelectuais, eram de ouro maciço.<br>
+    De lá saiu esta inspiração de uma história exótica,<br>
+    de qual relato Olímpico do lar das Divindades Gregas, aqui se narra:
+</p>
 
-Da afamada Biblioteca Pública de Porto Alegre,
+<p style="font-family: Georgia, serif; margin-bottom: 1.2rem; color: #222222;">
+    Disse um coágulo a outro numa poça de nutrientes;<br>
+    -Oh....Você não combina com meu conteúdo,fique mais distante,junto dos outros elementos..<br>
+    E uma substância,foi falando à outra pra se afastar, ou ír um certo grupo de elementos, e o mesmo se deu no Cosmo, um item foi se atraindo ao outro semelhante a ele, ainda outros se fundiram entre si, gerando novas coisas, desse al casamento químico-transcedental, embora também químico.
+</p>
 
-Nunca tive a certeza nessa época, se aqueles detalhes das colunas em entalhes protegida por 90 % da população local e alguns altos intelectuais, eram de ouro maciço.
+<p style="font-family: Georgia, serif; margin-bottom: 2rem; color: #222222;">
+    E foram-se formando novos conjuntos e até órgãos com esse agrupamento e divisão também fusão e liga entre eles.<br>
+    Inclusive os corpos celestes foram surgindo,<br>
+    um elemento muito ácido e neutro foi formando a "bílis" num corpo.<br>
+    E assim nasceu o Cosmo, o Universo, e o Homem.
+</p>
 
- 
+<div style="font-family: Georgia, serif; text-align: right; margin-top: 30px; color: #111111; font-style: italic;">
+    <strong>Senhor Mário Honorário</strong>
+</div>
 
-De lá saiu esta inspiração de uma história exótica,
 
-de qual relato Olímpico do lar das Divindades Gregas, aqui se narra:
-
- 
-
-Disse um coágulo a outro numa poça de nutrientes;
-
- 
-
--Oh....Você não combina com meu conteúdo,fique mais afastado,junto dos outros elementos..
-
- 
-
-E uma substância,foi falando à outra pra se afastar, ou ír a certo grupo de elementos, e o mesmo se deu no Cosmo, um item foi se atraindo ao outro semelhante a ele, ainda outros se fundiram entre sí, gerando novas coisas, desse casamento alquímico-transcedental, embora também químico.
-
- 
-
-E foram-se formando novos conjuntos e até órgãos com esse agrupamento e divisão também fusão e liga entre eles.
-
- 
-
-Inclusive os corpos celestes foram surgindo,
-
-um elemento muito ácido e neutro foi formando a "bílis" num corpo.
 
  
 
-E assim nasceu o Cosmo, o Universo, e o Homem.
 
-SirMárioHonorário
+
+
+
 
 _____________________________________________
 
