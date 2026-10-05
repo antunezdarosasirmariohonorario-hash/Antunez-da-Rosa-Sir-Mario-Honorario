@@ -117,46 +117,54 @@ ________________________________________
 
 
 
-Reformulação Teosófica: “Os Quatorze Raios Universais: Uma Visão Surrealista e Esotérica”
- Desde tempos antigos, tradições espirituais afirmam a existência de sete raios ou potências universais, cada um associado a cores, mestres e energias cósmicas. No entanto, observações contemporâneas e estudos simbólicos sugerem que são quatorze as forças estelares que estruturam o universo, cada uma revelando aspectos fundamentais da existência e da consciência.
+<h2 style="font-family: Georgia, serif; font-size: 1.8rem; margin-bottom: 25px; text-align: center; color: #111111; font-weight: bold;">Reformulação Teosófica: “Os Quatorze Raios Universais: Uma Visão Surrealista e Esotérica”</h2>
 
-Esses quatorze raios manifestam-se através de cores específicas, associadas a mentores que orientam a evolução espiritual da humanidade:
+<p style="font-family: Georgia, serif; margin-bottom: 1.2rem; color: #222222;">
+    Desde tempos antigos, tradições espirituais afirmam a existência de sete raios ou potências universais, cada um associado a cores, mestres e energias cósmicas. No entanto, observações contemporâneas e estudos simbólicos sugerem que são quatorze as forças estelares que estruturam o universo, cada uma revelando aspectos fundamentais da existência e da consciência.
+</p>
 
-Branca – Mentores Apiáceos, guia da pureza e iluminação.
+<p style="font-family: Georgia, serif; margin-bottom: 1.2rem; color: #222222;">
+    Esses quatorze raios manifestam-se através de cores específicas, associadas a mentores que orientam a evolução espiritual da humanidade:
+</p>
 
-Preta – Mentores Domus, representantes da densidade cósmica e dos buracos negros.
+<ul style="font-family: Georgia, serif; margin-bottom: 1.2rem; padding-left: 20px; color: #222222;">
+    <li style="margin-bottom: 0.5rem;"><strong>Branca</strong> – Mentores Apiáceos, guia da pureza e iluminação.</li>
+    <li style="margin-bottom: 0.5rem;"><strong>Preta</strong> – Mentores Domus, representantes da densidade cósmica e dos buracos negros.</li>
+    <li style="margin-bottom: 0.5rem;"><strong>Azul</strong> – Mentores Zênites, portadores da sabedoria e da harmonia universal.</li>
+    <li style="margin-bottom: 0.5rem;"><strong>Verde</strong> – Mentores Etéreos, ligados à vitalidade e ao equilíbrio da vida.</li>
+    <li style="margin-bottom: 0.5rem;"><strong>Amarela</strong> – Mentores Dójus, da força, expressão e da criatividade.</li>
+    <li style="margin-bottom: 0.5rem;"><strong>Vermelha</strong> – Mentores Fáguos, força da energia vital e transformação.</li>
+    <li style="margin-bottom: 0.5rem;"><strong>Marrom</strong> – Mentores Fisious, guardiões da estabilidade material e ancestral.</li>
+    <li style="margin-bottom: 0.5rem;"><strong>Roxa</strong> – Mentores Vérkows, condutores do misticismo e da transcendência.</li>
+    <li style="margin-bottom: 0.5rem;"><strong>Rosa</strong> – Mentores Ternus, irradiadores de compaixão e amor universal.</li>
+    <li style="margin-bottom: 0.5rem;"><strong>Prateada</strong> – Mentores Conésprates, representantes da intuição cósmica.</li>
+    <li style="margin-bottom: 0.5rem;"><strong>Cinza</strong> – Mentores Humo, equilíbrio entre luz e sombra e pausas necessárias.</li>
+    <li style="margin-bottom: 0.5rem;"><strong>Dourada</strong> – Mentores Dórkons, simbolizam a honra, prosperidade e o poder espiritual.</li>
+    <li style="margin-bottom: 0.5rem;"><strong>Alaranjada</strong> – Mentores Sínt’s, catalisadores da atividade, disciplina e renovação.</li>
+    <li style="margin-bottom: 0.5rem;"><strong>Bége</strong> – Mentores Núrios, ligação entre a humanidade e a sabedoria ancestral.</li>
+</ul>
 
-Azul – Mentores Zênites, portadores da sabedoria e da harmonia universal.
+<p style="font-family: Georgia, serif; margin-bottom: 1.2rem; color: #222222;">
+    Cada raio também se conecta a um Mestre ou divindade reconhecida por diferentes culturas: Buda, Yussuf Al Asaf (Isa), Lao-Tzu, Zeus, Elohím, Odín, Visnu, Siva, Zambi, Hades, Amaterasu-Okami, Aurora (tradições místicas da Antártida), Cosmo (tradições místicas do Ártico) e Nhanderuvussú-Yamandú (divindade ameríndia vinculada a Tupã, o trovão).
+</p>
 
-Verde – Mentores Etéreos, ligados à vitalidade e ao equilíbrio da vida.
+<p style="font-family: Georgia, serif; margin-bottom: 1.2rem; color: #222222;">
+    Simbolicamente, os Mestres maiores, como Sanat Kumara e os três Cohans, residem no horizonte e vértice de Shamballah, representando a conexão entre o terrestre e o cósmico.
+</p>
 
-Amarela – Mentores Dójus, da força, expressão e da criatividade.
+<p style="font-family: Georgia, serif; margin-bottom: 2rem; color: #222222;">
+    Assim, os quatorze raios universais oferecem um mapa simbólico da evolução espiritual, integrando cores, mestres e forças cósmicas em uma visão holística do universo. Essa abordagem combina sabedoria ancestral e reflexão contemporânea, oferecendo ao leitor uma compreensão mais profunda das energias que permeiam toda a existência.
+</p>
 
-Vermelha – Mentores Fáguos, força da energia vital e transformação.
+<div style="font-family: Georgia, serif; text-align: right; margin-top: 30px; color: #111111; font-style: italic;">
+    <strong>Sir Mário Honorário</strong>
+</div>
 
-Marrom – Mentores Fisious, guardiões da estabilidade material e ancestral.
 
-Roxa – Mentores Vérkows, condutores do misticismo e da transcendência.
 
-Rosa – Mentores Ternus, irradiadores de compaixão e amor universal.
 
-Prateada – Mentores Conésprates, representantes da intuição cósmica.
 
-Cinza – Mentores Humo, equilíbrio entre luz e sombra e pausas necessárias
 
-Dourada – Mentores Dórkons, simbolizam a honra, prosperidade e o poder espiritual.
-
-Alaranjada – Mentores Sínt’s, catalisadores da atividade, disciplina e renovação.
-
-Bége – Mentores Núrios, ligação entre a humanidade e a sabedoria ancestral.
-
-Cada raio também se conecta a um Mestre ou divindade reconhecida por diferentes culturas: Buda, Yussuf Al Asaf (Isa), Lao-Tzu, Zeus, Elohím, Odín, Visnu, Siva, Zambi, Hades, Amaterasu-Okami, Aurora (tradições místicas da Antártida), Cosmo (tradições místicas do Ártico) e Nhanderuvussú-Yamandú (divindade ameríndia vinculada a Tupã, o trovão).
-
-Simbolicamente, os Mestres maiores, como Sanat Kumara e os três Cohans, residem no horizonte e vértice de Shamballah, representando a conexão entre o terrestre e o cósmico.
-
-Assim, os quatorze raios universais oferecem um mapa simbólico da evolução espiritual, integrando cores, mestres e forças cósmicas em uma visão holística do universo. Essa abordagem combina sabedoria ancestral e reflexão contemporânea, oferecendo ao leitor uma compreensão mais profunda das energias que permeiam toda a existência.
-
-Sir Mário Honorário
 
 _________________________________________________________
 
