@@ -207,7 +207,11 @@ _________________________________________________________
 </div>
 
 
-
+<div style="margin-top: 40px; border-top: 1px solid #cccccc; padding-top: 25px;">
+    <p style="font-family: Georgia, serif; margin-bottom: 1.2rem; color: #222222;">
+        No texto intitulado <em>A Alquimia das Colunas e o Nascimento do Cosmo</em>, o escritor <strong>Senhor Mário Honorário</strong> parte de uma memória marcante — a imponência clássica e as colunas em estilo coríntio da Biblioteca Pública de Porto Alegre — para construir uma metáfora fantástica sobre a origem de tudo. Ao antropomorfizar elementos químicos e substâncias primitivas que dialogam e se atraem, o autor cria uma narrativa original que funde a ciência, a filosofia grega e a poesia em uma explicação literária fascinante para a formação do universo e do homem.
+    </p>
+</div>
  
 
 
