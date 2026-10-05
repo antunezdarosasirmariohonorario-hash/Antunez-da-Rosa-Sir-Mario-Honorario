@@ -214,75 +214,68 @@ _____________________________________________
 _________________________________________
 
 
-<h2 style="font-family: Georgia, serif; font-size: 1.8rem; margin-bottom: 25px; text-align: center; color: #f0f6fc;">A sexagésima sétima profecia:</h2>
 
-<p style="margin-bottom: 1.2rem;">
+<h2 style="font-family: 'Cinzel', Georgia, serif; font-size: 1.8rem; margin-bottom: 25px; text-align: center; color: #ffffff; font-weight: bold;">A sexagésima sétima profecia:</h2>
+
+<p style="font-family: 'Georgia', serif; margin-bottom: 1.2rem; color: #e6edf3;">
     Desde os primórdios, antes mesmo do judaísmo formal, existiam tradições antigas e espirituais — o fio hebraico, Avraham, Isaak e Yakob, e práticas como os candelabros de sete braços, menorah e de nove, e chanukáh da passagem de ano, símbolos de comunicação e homenagem ao Elohim (IHVH).
 </p>
 
-<p style="margin-bottom: 1.2rem;">
+<p style="font-family: 'Georgia', serif; margin-bottom: 1.2rem; color: #e6edf3;">
     Essas tradições originais eram puras, ligadas à espiritualidade e à conexão com o divino.
 </p>
 
-<p style="margin-bottom: 1.2rem;">
+<p style="font-family: 'Georgia', serif; margin-bottom: 1.2rem; color: #e6edf3;">
     Com o tempo, textos e interpretações posteriores distorceram essas tradições, separando povos, criando distinções e críticas à outras formas de fé.
 </p>
 
-<p style="margin-bottom: 1.2rem;">
+<p style="font-family: 'Georgia', serif; margin-bottom: 1.2rem; color: #e6edf3;">
     Tentando transformar e distorcer orientações dadas ao povo antigo hebreu, como se fossem regras de divisão entre nações de forma permanente.
 </p>
 
-<p style="margin-bottom: 1.2rem;">
+<p style="font-family: 'Georgia', serif; margin-bottom: 1.2rem; color: #e6edf3;">
     É a partir desse ponto que surge o que chamamos de apartheid religioso: uma invenção política e humana, não espiritual, que corrompeu o propósito original da fé.
 </p>
 
-<p style="margin-bottom: 1.2rem;">
+<p style="font-family: 'Georgia', serif; margin-bottom: 1.2rem; color: #e6edf3;">
     Colocando em D’us atributos humanos como ira, vingança e ódio.
 </p>
 
-<p style="margin-bottom: 1.2rem;">
+<p style="font-family: 'Georgia', serif; margin-bottom: 1.2rem; color: #e6edf3;">
     Também promovendo incentivo à destruição de dogmas ou objetos e templos alheios de representação do divino.
 </p>
 
-<p style="margin-bottom: 1.2rem;">
+<p style="font-family: 'Georgia', serif; margin-bottom: 1.2rem; color: #e6edf3;">
     Promoveram uma forma presunçosa de posse particular das alturas, como se estas tivessem limitação a templos, líderes religiosos, ou formas de expressar a fé para contato ou milagres à humanidade, ou mesmo existirem como são, em seus atributos.
 </p>
 
-<p style="margin-bottom: 1.2rem;">
+<p style="font-family: 'Georgia', serif; margin-bottom: 1.2rem; color: #e6edf3;">
     Humanos imporem que o livro sagrado de um grupo religioso estaria errado, e o outro correto, como se as alturas fossem limitadas às explicações de livros físicos.
 </p>
 
-<p style="margin-bottom: 1.2rem;">
+<p style="font-family: 'Georgia', serif; margin-bottom: 1.2rem; color: #e6edf3;">
     Essa confusão — essa Babel simbólica — está agora à beira do colapso. Os eventos recentes, especialmente desde os ataques de 2023, não só expõem conflitos e fanatismos, mas também abalam as estruturas desse sistema corrompido.
 </p>
 
-<p style="margin-bottom: 1.2rem;">
+<p style="font-family: 'Georgia', serif; margin-bottom: 1.2rem; color: #e6edf3;">
     Líderes políticos e religiosos, fanáticos de todos os lados, acabam sendo usados para manter a divisão e desviar a atenção de quem esclarece corretamente.
 </p>
 
-<p style="margin-bottom: 1.2rem;">
+<p style="font-family: 'Georgia', serif; margin-bottom: 1.2rem; color: #e6edf3;">
     O problema nunca foi um grupo específico — judeus, muçulmanos, cristãos, líderes políticos — mas as distorções introduzidas pelo espírito maligno em metáfora, que manipula a humanidade para alimentar o ódio e a separação, sem se mostrar diretamente.
 </p>
 
-<p style="margin-bottom: 1.2rem;">
+<p style="font-family: 'Georgia', serif; margin-bottom: 1.2rem; color: #e6edf3;">
     Para os esclarecidos, as profecias do fim dos tempos começam a se revelar gradualmente. Nenhum de nós conhece tudo; os sinais vão se encaixando aos poucos. Mas, com racionalidade, lógica e à luz da razão, observamos o colapso iminente da ilustrada torre de babel, analisando os eventos com diplomacia imparcial e discernimento, sem nos deixar levar por fanatismo ou narrativas prontas. Aliando a espiritualidade ao foco racional e lógico, temos as respostas mais sensatas.
 </p>
 
-<p style="margin-bottom: 2rem;">
+<p style="font-family: 'Georgia', serif; margin-bottom: 2rem; color: #e6edf3;">
     A 67 profecia, portanto, nos lembra: a queda das estruturas de divisão e manipulação é inevitável, e a clareza virá àqueles que mantêm os olhos abertos, aliado ao pensamento crítico afiado e o espírito atento.
 </p>
 
-<div style="text-align: right; margin-top: 30px; font-style: italic;">
+<div style="font-family: 'Georgia', serif; text-align: right; margin-top: 30px; color: #ffffff; font-style: italic;">
     <strong>Sir Mário Honorário</strong>
 </div>
-
-
-
-
- 
-
-
-
 
 
 
