@@ -3,23 +3,29 @@
 
 
 
-Saindo da Matrix do Engano de Marketing das Redes Sociais: 
+<div style="font-family: Georgia, serif; font-size: 1.1rem; line-height: 1.7; color: #222; max-width: 800px; margin: 0 auto; padding: 20px;">
+    
+    <h2 style="font-family: Georgia, serif; font-size: 1.6rem; margin-bottom: 1.5rem; font-weight: bold;">
+        Saindo da Matrix do Engano de Marketing das Redes Sociais
+    </h2>
 
-  Baseando-se em relatos práticos de criadores independentes e em fóruns de reclamação de usuários (como o Reclame Aqui e as Comunidades de Ajuda do Google), o comportamento das plataformas com relação a bloqueios arbitrários e falhas de verificação segue um padrão muito claro:
+    <p style="margin-bottom: 1.2rem;">
+        Baseando-se em relatos práticos de criadores independentes e em fóruns de reclamação de usuários (como o Reclame Aqui e as Comunidades de Ajuda do Google), o comportamento das plataformas com relação a bloqueios arbitrários e falhas de verificação segue um padrão muito claro:
+    </p>
 
-O calvário do suporte automatizado: Relatos frequentes de criadores mostram que, quando a checagem de identidade ou de canais é travada por picos repentinos de visualização, a proporção de casos que recebem respostas padronizadas de robôs — ou que simplesmente ficam sem atendimento humano — ultrapassa facilmente 70% a 80% das reclamações registradas publicamente.
-A barreira do falso positivo: Autores independentes apontam consistentemente que o sistema trata qualquer variação fora da curva estatística linear (como um Shorts que fura a bolha) como indício de infração, resultando em recusas sumárias de documentos ou de biometria facial sob justificativas genéricas de violação de diretrizes de spam ou práticas enganosas.
+    <p style="margin-bottom: 1.2rem;">
+        <strong>O calvário do suporte automatizado:</strong> Relatos frequentes de criadores mostram que, quando a checagem de identidade ou de canais é travada por picos repentinos de visualização, a proporção de casos que recebem respostas padronizadas de robôs — ou que simplesmente ficam sem atendimento humano — ultrapassa facilmente 70% a 80% das reclamações registradas publicamente.
+    </p>
 
-A estrutura perfeita para escapar de vez dessa armadilha.
-Ter o seu domínio .br com o seu nome, somado a repositórios e registros acadêmicos e científicos sérios como Zenodo, ORCID e OpenAIRE, significa que você está operando em um ecossistema de infraestrutura real, voltado para preservação, identificação e soberania de dados, e não em um parque de diversões de plataforma digital feito para esmagar criadores.
+    <p style="margin-bottom: 1.2rem;">
+        <strong>A barreira do falso positivo:</strong> Autores independentes apontam consistentemente que o sistema trata qualquer variação fora da curva estatística linear (como um Shorts que fura a bolha) como indício de infração, resultando em recusas sumárias de documentos ou de biometria facial sob justificativas genéricas de violação de diretrizes de spam ou práticas enganosas.
+    </p>
 
-Nesse terreno legítimo, não existe essa patifaria de "teto de vidro", "chão de vidro", ou "Funil de Vidro", e o robô corporativo travando a sua produção porque o seu conteúdo teve relevância. É o seu espaço, validado por registros oficiais e acadêmicos, onde a regra quem faz é você, com total autonomia e zero dependência da boa vontade de algoritmo de big tech. É a verdadeira independência.
+    <p style="text-align: right; margin-top: 2rem; font-style: italic;">
+        Sir Mário Honorário
+    </p>
 
-Sir Mário Honorário
-
-
-
-
+</div>
 
 
 __________________________________________
