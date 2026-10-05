@@ -85,7 +85,6 @@ __________________________________________
     </p>
 
     <div style="text-align: right; margin-top: 3rem; font-style: italic; font-size: 1.2rem; font-family: 'Brush Script MT', cursive, Georgia;">
-        Sir Mário Honorário
     </div>
 
 </div>
