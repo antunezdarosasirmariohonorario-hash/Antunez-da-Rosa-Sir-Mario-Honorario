@@ -93,16 +93,27 @@ __________________________________________
 __________________________________________
 
 
-Anotações esporádicas:
+<h2 style="font-family: Georgia, serif; font-size: 1.8rem; margin-bottom: 25px; text-align: center; color: #111111; font-weight: bold;">Anotações esporádicas:</h2>
 
-A trajetória do Gnose
- Os gregos tiveram uma escola de conhecimento, dentre filosofia, que vem a ser a busca do ser para explicação da existência, porção da existência, por meio de tudo isso, que foi vivenciado entre eles, haviam raízes das mais antigas etnias da história da humanidade, a exemplo dos Indianos, descendentes da outra civilização de Lemúria, assim como outra civilização  também antiga, a África, de outras civilizações ancestrais, das quais os escassos sobreviventes eram, semelhantes aos Indianos e afro-descendentes.
+<p style="font-family: Georgia, serif; margin-bottom: 1.2rem; color: #222222;">
+    A trajetória do Gnose Os gregos tiveram uma escola de conhecimento, dentre filosofia, que vem a ser a busca do ser para explicação da existência, porção da existência, por meio de tudo isso, que foi vivenciado entre eles, haviam raízes das mais antigas etnias da história da humanidade, a exemplo dos Indianos, descendentes da outra civilização de Lemúria, assim como outra civilização também antiga, a África, de outras civilizações ancestrais, das quais os escassos sobreviventes eram, semelhantes aos Indianos e afro-descendentes.
+</p>
 
- Houveram outras civilizações avançadas, e, com tecnologia de ponta, não obstante, o que restou deles, apenas chip's, que encontrados, nada se sabe para que serviam, de tão intrigantes, quanto as pedras roladas que porventura achamos, com cortes perfeitos, como uma faca que cortara um pedaço de cera, estando com a lâmina incandescente de tanto calor.
+<p style="font-family: Georgia, serif; margin-bottom: 1.2rem; color: #222222;">
+    Houveram outras civilizações avançadas, e, com tecnologia de ponta, não obstante, o que restou deles, apenas chip’s, que encontrados, nada se sabe para que serviam, de tão intrigantes, quanto as pedras roladas que porventura achamos, com cortes perfeitos, como uma faca que cortara um pedaço de cera, estando com a lâmina incandescente de tanto calor.
+</p>
 
- Abaixo do mar báltico, em contradição ao esperado previamente pela ciência, foi encontrado um fato empírico de comprovação disto, com construções bem arrojadas, para se tratar de pouco avanço tão alegado, sobre uma era de civilizações anteriores. 
+<p style="font-family: Georgia, serif; margin-bottom: 2rem; color: #222222;">
+    Abaixo do mar báltico, em contradição ao esperado previamente pela ciência, foi encontrado um fato empírico de comprovação disto, com construções bem arrojadas, para se tratar de pouco avanço tão alegado, sobre uma era de civilizações anteriores.
+</p>
 
-SirMárioHonorário
+<div style="font-family: Georgia, serif; text-align: right; margin-top: 30px; color: #111111; font-style: italic;">
+    <strong>Sir Mário Honorário</strong>
+</div>
+
+ 
+
+ 
 
 
 ________________________________________
