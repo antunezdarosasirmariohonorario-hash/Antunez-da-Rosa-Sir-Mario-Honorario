@@ -583,10 +583,7 @@ ___________________________________________
 
 
 
-Outros Dossiês:
-
-
-[Acessar Dossiê no OSF](https://osf.io/va4j2/overview)
+Outros Dossiês: <a href="https://osf.io/va4j2/overview" target="_blank" rel="noopener noreferrer">Acessar Dossiê no OSF</a>
 
 
 
