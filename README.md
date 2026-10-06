@@ -582,6 +582,14 @@ ___________________________________________
 
 
 
+
+Outros Dossiês:
+
+
+[Acessar Dossiê no OSF](https://osf.io/va4j2/overview)
+
+
+
 <a href="https://orcid.org/0009-0007-1969-2835" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;color:#A6CE39;text-decoration:none;font-family:Arial,sans-serif;font-size:14px;">
     <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD icon" style="width:16px;height:16px;margin-right:6px;">
     https://orcid.org/0009-0007-1969-2835
