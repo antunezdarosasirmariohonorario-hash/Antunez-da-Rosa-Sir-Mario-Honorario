@@ -391,7 +391,10 @@ _________________________________________
 
 
 
-
+<hr>
+<p><strong>Outros Dossiês:</strong> <a href="https://osf.io/va4j2/overview" target="_blank" rel="noopener noreferrer">Acessar Dossiê no OSF</a></p>
+<p><strong>ORCID:</strong> <a href="https://orcid.org/0009-0007-1969-2835" target="_blank" rel="noopener noreferrer">https://orcid.org/0009-0007-1969-2835</a></p>
+<p><strong>Site:</strong> <a href="https://marioenriqueantunezadarosa.com.br" target="_blank" rel="noopener noreferrer">marioenriqueantunezadarosa.com.br</a></p>
 
 
 
