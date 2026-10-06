@@ -72,7 +72,7 @@ __________________________________________
     </p>
 
     <p style="margin-bottom: 1.5rem;">
-        Esse descolamento revela que o investimento afetivo e prático de grande parte da rede é estritamente utilitário.
+        Esse descolamento revela que o investimento afetivo e prático de grande parte da rede é estritamente focalizado em interesse pessoal.
     </p>
 
     <h2 style="font-family: Georgia, serif; font-size: 1.3rem; margin-top: 2rem; margin-bottom: 1rem; font-weight: bold; font-style: italic;">
