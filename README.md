@@ -605,21 +605,14 @@ Outros Dossiês: <a href="https://osf.io/va4j2/overview" target="_blank" rel="no
 
 <a href="https://orcid.org/0009-0007-1969-2835" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;color:#A6CE39;text-decoration:none;font-family:Arial,sans-serif;font-size:14px;">
     <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD icon" style="width:16px;height:16px;margin-right:6px;">
-    https://orcid.org/0009-0007-1969-2835
-</a>
-
+    
       
 
 
     
-    Site: <a href="https://marioenriqueantunezdarosa.com.br" target="_blank" style="color: #004080; font-weight: bold;">marioenriqueantunezdarosa.com.br</a></p>
+    
 
-    <p align="center" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #b2ebf2;">
-      Contato: <a href="mailto:antunezmariochevalier@gmail.com" style="color: #004080; font-weight: bold;">antunezmariochevalier@gmail.com</a>
-    </p>
-
-  </div>
-</div>
+  
 
 
 <div itemscope itemtype="https://schema.org/Person">
