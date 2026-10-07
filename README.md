@@ -227,13 +227,10 @@ __________________________________________
         </li>
     </ul>
 
-    <!-- Seção da imagem logo abaixo -->
-    <div style="text-align: center; margin-top: 40px; border-top: 2px solid #d4af37; padding-top: 25px;">
-        <img src="caminho-da-sua-imagem-aqui.jpg" alt="As Nove Musas" style="max-width: 100%; height: auto; border: 4px solid #5c1d1d; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-        <p style="font-style: italic; color: #5c1d1d; margin-top: 12px; font-size: 1.1rem;">Representação artística das Musas Gregas</p>
-    </div>
+    
+        
 
-</div>
+
 
 
 
