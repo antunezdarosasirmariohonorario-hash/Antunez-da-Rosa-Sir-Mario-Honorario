@@ -185,6 +185,64 @@ ___________________________________________
 __________________________________________
 
 
+
+
+<div style="background-color: #f4ebd0; color: #2c221e; font-family: 'Georgia', serif; padding: 30px; border: 4px double #5c1d1d; border-radius: 6px; margin-bottom: 2rem;">
+
+    <h1 style="font-family: 'Georgia', serif; color: #b30000; text-align: center; font-size: 2.2rem; margin-bottom: 10px;">
+        As Nove Musas
+    </h1>
+    
+    <p style="text-align: center; font-style: italic; color: #8c6239; margin-bottom: 30px; border-bottom: 2px solid #d4af37; padding-bottom: 10px;">
+        Crônicas das Divindades da Mitologia Grega
+    </p>
+
+    <ul style="list-style-type: none; padding: 0; line-height: 1.8;">
+        <li style="margin-bottom: 20px; padding-left: 15px; border-left: 3px solid #8c6239;">
+            <strong style="color: #0044cc; font-size: 1.2rem;">Calíope:</strong> A principal das musas e líder do grupo, associada à poesia épica e à eloqüência. É frequentemente retratada segurando um rolo de pergaminho ou uma tabuleta de escrita.
+        </li>
+        <li style="margin-bottom: 20px; padding-left: 15px; border-left: 3px solid #8c6239;">
+            <strong style="color: #0044cc; font-size: 1.2rem;">Clio:</strong> A musa da história. É tradicionalmente representada com um livro ou um pergaminho aberto, registrando os feitos memoráveis da humanidade.
+        </li>
+        <li style="margin-bottom: 20px; padding-left: 15px; border-left: 3px solid #8c6239;">
+            <strong style="color: #0044cc; font-size: 1.2rem;">Erato:</strong> A musa da poesia lírica, amorosa e dos cantos nupciais. Costuma ser representada com uma coroa de murtas e rosas, segurando uma lira ou um instrumento de cordas.
+        </li>
+        <li style="margin-bottom: 20px; padding-left: 15px; border-left: 3px solid #8c6239;">
+            <strong style="color: #0044cc; font-size: 1.2rem;">Euterpe:</strong> A musa da música e da poesia lírica e instrumental. É comumente identificada por portar uma flauta dupla ou instrumentos de sopro.
+        </li>
+        <li style="margin-bottom: 20px; padding-left: 15px; border-left: 3px solid #8c6239;">
+            <strong style="color: #0044cc; font-size: 1.2rem;">Melpômene:</strong> Originalmente a musa do canto, tornou-se a musa da tragédia. É caracterizada pela máscara trágica que carrega e, muitas vezes, por usar coturnos.
+        </li>
+        <li style="margin-bottom: 20px; padding-left: 15px; border-left: 3px solid #8c6239;">
+            <strong style="color: #0044cc; font-size: 1.2rem;">Polímnia:</strong> A musa dos cantos sagrados, da poesia sacra e da retórica. É representada de maneira contemplativa, geralmente vestida com longos mantos e véus, demonstrando profunda reflexão.
+        </li>
+        <li style="margin-bottom: 20px; padding-left: 15px; border-left: 3px solid #8c6239;">
+            <strong style="color: #0044cc; font-size: 1.2rem;">Terpsícore:</strong> A musa da dança e do coro. É retratada em movimento, de forma graciosa e expressiva, segurando frequentemente uma lira.
+        </li>
+        <li style="margin-bottom: 20px; padding-left: 15px; border-left: 3px solid #8c6239;">
+            <strong style="color: #0044cc; font-size: 1.2rem;">Tália:</strong> A musa da comédia e da poesia festiva. É identificada pela máscara cômica que segura, além de adornos de hera e um cajado de pastor.
+        </li>
+        <li style="margin-bottom: 20px; padding-left: 15px; border-left: 3px solid #8c6239;">
+            <strong style="color: #0044cc; font-size: 1.2rem;">Urânia:</strong> A musa da astronomia e da astrologia. É representada tendo como atributos um globo celeste e um compasso, medindo as estrelas e os céus.
+        </li>
+    </ul>
+
+    <!-- Seção da imagem logo abaixo -->
+    <div style="text-align: center; margin-top: 40px; border-top: 2px solid #d4af37; padding-top: 25px;">
+        <img src="caminho-da-sua-imagem-aqui.jpg" alt="As Nove Musas" style="max-width: 100%; height: auto; border: 4px solid #5c1d1d; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+        <p style="font-style: italic; color: #5c1d1d; margin-top: 12px; font-size: 1.1rem;">Representação artística das Musas Gregas</p>
+    </div>
+
+</div>
+
+
+
+______________________________________
+
+
+
+
+
 <h2 style="font-family: Georgia, serif; font-size: 1.8rem; margin-bottom: 25px; text-align: center; color: #111111; font-weight: bold;">Anotações esporádicas:</h2>
 
 <p style="font-family: Georgia, serif; margin-bottom: 1.2rem; color: #222222;">
