@@ -262,6 +262,83 @@ ______________________________________
 ________________________________________
 
 
+
+
+
+# O Crivo da Realidade - O Falso Misticismo e a Estrada de Terra
+
+*Entrevistador: Sir Mário Honorário, por que tanta gente na internet hoje em dia gasta tanto tempo criando personas de "mago supremo", "especialista em tudo" ou "erudito de palco" em vez de simplesmente mostrar diploma ou trabalho real?*
+
+*Sir Mário Honorário: Eu acho que é pelo seguinte, cara. As pessoas têm preguiça cognitiva às vezes, não todo mundo, mas uma maioria. Então estudar dá trabalho. Tu te abraçar em cima de livro e te preparar para uma prova de um curso de verdade, autoinstrucional, oficial, é difícil. Então ela projeta aquilo que ela acha que é. E vai alimentando aquele alter ego da tela e do teclado ao ponto que ela própria acredita nisso. Eu chego a rir, mas é tipo isso; E pouca gente com vivência prática. Então ela não tem uma realidade multifatorial, multifacetada e tenta passar que conhece tudo por pura vaidade pessoal de quartinho e do que tu imagina de si frente ao espelho. É ridículo, mas é verdade.*
+
+*Entrevistador: É verdade que essa turma da Magia do Caos e dos grupos de internet realmente acredita que fazer ritualzinho na sala de casa com luz apagada substitui anos de estudo sério e atrito com a realidade?*
+
+*Sir Mário Honorário: Sim, porque pensa bem, na época dos anos 80, por exemplo, e 90, que nem nós estava conversando antes, existia uma consistência, mesmo que não pudesse viajar para locais multifacetados, que vem a ser o fenômeno da realidade coletiva e a diversidade, você tinha que citar o que um livro dizia e se perguntava adicionalmente para ver se tu entendia o que era aquela teoria, mesmo nos grupos de juventude mística, por exemplo, ou de qualquer setor de conhecimento. Atualmente, você simplesmente tem o copia e cola de internet, a deep web, você elabora e organiza ali tudo pelo computador e se passa pelo grande conhecedor sem nunca ter tido o pé na lama, e a vivência prática do dia a dia ao vivo.*
+
+*Entrevistador: O povo adora falar que quem estuda de verdade ou passa em provas difíceis é "vendido ao sistema". De onde vem esse complexo de perseguição de quem nunca passou por um crivo institucional rigoroso?*
+
+*Sir Mário Honorário: Isso aí vem de uma realidade muito citada pelos especialistas e sociólogos e críticos em que a pessoa não consegue as coisas ou não consegue coisas dentro do sistema de carreira. Eu sou um, eu não consigo uma grande carreira, pode-se por assim dizer. Só que há pessoas que imaginam, elas fazem um atalho mental do que seria a realidade. Então elas acreditam que as instituições não estão para ajudar, estão só para manipular. Então elas abrem mão de um conhecimento que foi feito em positivismo, por exemplo, que a gente fala em diplomacia. E em realismo também, há também o pragmatismo, em que eles analisam o passado para entender o futuro. Eles dizem, ó, isto dá certo, isto não dá, já foi estudado em vários ramos multifatoriais. E aí eles botam a conclusão que seja menos arriscada nos livros. Não quero dizer que os livros vão falar tudo sobre a realidade empírica, mas que há muita análise empírica também em livros de universidades. Então esse temor que eles têm são o que eles chamam de criações de teorias de conspiração frente ao sistema que não se entende. Então eles generalizam que o sistema todo é aquilo, mas não, certos setores podem ter esse viés de manipulação, mas isso não quer dizer que todo o sistema seja assim.*
+
+*Entrevistador: Na juventude, o senhor chegou a cruzar com pequenos cenários e grupos esotéricos de fachada. O que levou o senhor a ver aquilo logo de cara como um bando de teatro vazio e imaturo?*
+
+*Sir Mário Honorário: Porque não existia concordância com as linhagens de tradição.  Eu não tô te falando que tu não possa criar uma coisa inovadora sem ter a ver com o que os livros acadêmicos falam ou a história geral, mas ela tiene que fazer sentido para o coletivo e multifatorial, senão ela se torna um apartheid. Daí só vai beneficiar a tua bolha pessoal, não vai ajudar tu a evoluir intelectualmente ao mesmo tempo que vai só causar um desperdício no equilíbrio multifatorial e coletivo da sociedade.*
+
+*Entrevistador: O pessoal mais "evoluído" da internet vive dizendo que tem alergia a tudo, que não come carne, que tem restrição a glúten, leite, e que prefere uma dieta super limpa. Por que essa mesma turma torce o nariz e chama de "mato" ou inventa frescura quando vê um radite amargo, um dente-de-leão ou um inhame de verdade?*
+
+*Sir Mário Honorário: É o seguinte, por exemplo, eu vou citar uma coisa que não viria tanto ao caso, mas serve como exemplo, a bruxaria tradicional. Na bruxaria tradicional, os bruxos conheciam como fazer o corpo funcionar melhor por meio de ervas, culturas alternativas, alimentos que parecem não tão bons ao paladar, mas que fazem bem e sustentam. Então, quando tu pega uma nova geração que eles chamam de Nutella e Enzo, eles têm tudo dos parentes, eles podem até crescer como executivos, a exemplo. Mas aí eles acham que têm um rei na barriga, eles acham que cresceram sozinhos, mas não, eles tinham uma ajuda, alimentação, calçado, parentes apoiando. Não dando rios de dinheiro, mas apoiando no que precisava de básico, almoço pronto na hora. Há pessoas que não saem do mesmo lugar, isso aí a gente aprende, por exemplo, na ética e administração pública oficial de cursos autoinstrucionais. Eles nos chamam de polimatas, por ter vários cursos oficiais, autoinstrucionais. Então, não saímos todos do mesmo núcleo, então existe desigualdade e com isso menos igualdade de crescimento para todo mundo. Então não adianta exigir de uma pessoa que não tem recurso que ela consiga aquilo, e que todo azar que ela tenha na vida seja culpa dela, entendeu? Então eles têm tudo, como eles têm tudo, nunca faltou nada, eles não aprenderam o principal dos grandes sacerdotes antigos, que é saber se virar perante o horizonte multifatorial que é a natureza e os lugares no mundo.*
+
+*Entrevistador: Como pode alguém que se diz "sacerdote dos mistérios da terra" ter nojo ou repulsa da comida rústica que sustenta a vida de verdade, como um bom coração assado ou uma morcilha bem temperada?*
+
+*Sir Mário Honorário: Porque é o chamado artificialismo digital. A nova geração não se criou que nem a nossa, que era fora das telas de celular e computador, então eles não têm a vivência prática e empírica do dia a dia, entendeu?*
+*E o pior é que eu conheci o mais difícil de acontecer, pessoas que viveram a nossa realidade e que depois foram se levando pelas modas de alergia. Pessoas que chegavam a empinar o caneco de iogurte, inventando depois que tinham alergia à lactose. Pessoas que comiam quase até o osso de um churrasco, inventando que não podiam comer carne depois, que eram veganos. Veganos até a fome bater. Pessoas que comiam morcilha preta, cara, que é puro sangue de porco, depois dizendo que eram alérgicas a produtos com sangue?*
+*É uma psicodelia de modismos ultimamente que não corroboram com aqueles casos reais de pessoa que descobriu ter problemas. Aí sim, a gente respeita, mas uma grande parte é moda.  Em consequência, como você falou, é uma frescura. Eles inventam uma frescura por quê? Porque onde sobra dinheiro, aumenta a frescura. Eu gosto de resumir assim.*
+
+*Entrevistador: Tem gente que acha que comer bicho ou raiz "baixa a vibração espiritual". Qual é a base desse paladar infantilizado que só aceita comida industrializada bonitinha em embalagem de plástico?*
+
+*Sir Mário Honorário: Mas aí há uma grande contradição. Eles dizem que comer o animal baixaria a aura. Eu entendo disso aí também, pois que inclusive respeito a aura soma, a aura áurea, entendeu? E a aura régia, que é a mais alta, coisa que os místicos aí de de cartilha não sabem é que existem esses três tipos de aura, só que elas nada têm a ver com o que tu come.*
+*Eles dizem que faz mal bicho raiz? Mas aí eles comem industrializados, que é pior ainda, é a manipulação do alimento da natureza, o pecado seria maior. Então não faz o menor sentido, é falta de conhecimento que eles estão falando.*
+
+*Entrevistador: O senhor comentou que o azeite de oliva e outros sabores fortes dividem opiniões. Onde está a linha entre o gosto legítimo do corpo e o fingimento da patota que consome as coisas só por modinha de rede social?*
+
+*Sir Mário Honorário: Na realidade, quando falta substância, o balão murcha e todo mundo nota que a pessoa não é um místico raiz, digamos. Pragmático, pode-se dizer assim, que é o melhor tipo de místico. Ele consegue ser pragmático também, de acordo à realidade lógica e os dados empíricos, e não tanto com a fábula que não faça sentido dentro da lógica racional. Então existe toda uma nuance de conhecimento que esse tipo de modismos não não consegue ver, por um pensamento curto de atalho mental. Só um pouquinho, que eu vou olhar melhor o que tu perguntou aqui. E eles olham o azeite de oliva, que é inclusive milenar, inclusive os grandes mestres usavam, e eles têm nojinho, quase vomitam só com o cheiro, sem ver as propriedades enormes que tem.*
+
+*Entrevistador: O senhor já cruzou a Serra de São Paulo a pé, dias a fio, comendo o que dava — basicamente banana e água porque era o que tinha nas casas do caminho. O que passa na cabeça do senhor quando vê esse povo de apartamento reclamando de barriga cheia?*
+
+*Sir Mário Honorário: O que passa pela cabeça é falta de vivência deles. Eles inventam uma autoridade mística que eles realmente não têm, criado em bolhas de confirmação deles, parecido com o eco chamber algorítmico. Uma vez que você inventa uma besteira, o que gera engajamento parece a realidade do mundo, mas não é. Então eu só interpreto como uma falta de vivência mesmo. E uma imaturidade enorme.*
+
+*Entrevistador: Se houver uma ruptura sistêmica de verdade, uma crise feia ou o tal "apocalipse" que essa galera tanto dramatiza nos discursos teóricos da internet, quanto tempo essa gente dura antes de colapsar por pura frescura?*
+
+*Sir Mário Honorário: Não, o colapso, se acontecer, essa galera aí mística de praxe, de cartilha, de botão de internet, tela de celular, não tem a mínima realidade empírica na frente para enfrentar situações mais sinóspitas, né? Intrínsecas que se diz, né? Então é difícil.*
+*Eles não têm preparo para aquilo. Eu acredito que em menos de 24 horas até eles já estariam em uma situação de colapso, porque eles escolhem a dedo o que vão comer, eles não conseguem conhecer a terra, não diferenciam o que é um redor comum do que é um guaxinim. A exemplo prático do básico, toda cobra para eles quer dizer que é venenosa. Olha, tem cara que não sabe nem que se come vermes crus no Brasil, em certas regiões da Amazônia. Então tudo é nojinho. Eu acho que é nonsense demais, é por isso que eles ficam perplexos com esse tipo de místico virtual, ou de praxe,  e chamam eles de Nutella e de nerd, ou Enzo.*
+
+*Entrevistador: Por que a escassez e o perrengue real são os únicos remédios que curam essa doença da arrogância digital e do misticismo de shopping center?*
+
+*Sir Mário Honorário: Por causa daquilo é o fenômeno da bolha. Quando a pessoa vive privilegiada, ela acha que ser algo é simplesmente o praxe de cartilha e deu, mas eles não têm a mínima noção do que é.*
+*Muita coisa está comercializada, tipo os ritos dos gregos, por exemplo, eu já vi até no monoteísmo isso.*
+*Muita coisa eles acham que simplesmente é interpretar o que se diz no livro, mas a vivência empírica do multifatorial eles não têm. Eles geram divisões, eles geram atritos por egos, por achar que tem as chaves do universo ou serem o povo eleito.*
+*Nada disso é a espiritualidade real, torna-se capricho pessoal, como não é por uma pessoa ser bom em espiritualidade, significado de que ela vai ter todas as chaves do universo e da vida.*
+*E temos muitos mitômanos crendo nisso assim, ó, sem pestanejar.*
+
+*Entrevistador: Para fechar, Sir Mário: qual é o conselho ou o veredito final para quem ainda dá ouvidos a esses "gurus" de subdomínio em vez de buscar a dureza, a beleza e a substância da vida real?*
+
+*Sir Mário Honorário: Eu poderia falar mil coisas, mas a coisa é mais simples do que parece.*
+*É simplesmente tu conhecer a pessoa ao vivo.*
+*O cara tá falando isso, conhece o cara ao vivo. Ali é o xeque-mate definitivo.*
+*Desaba todas as mentiras da internet e ele murcha na tua frente.*
+*Ele não vai saber nem o que falar, porque não tem substância.*
+*Não estou dizendo que precisa ser rico, mas não tem substância intelectual, entendeu?*
+*Não tem vivência prática com o multifacetado. Ali desaba tudo, no encontro presencial, porque ou o cara é uma coisa, ou ele é um charlatão.*
+*É capaz até de ser golpista de venda de curso que nem oficial é.*
+*Taxa de adesão, iniciação que não é reconhecido dentro de linhagens.*
+*Tudo isso aí, logo o filtro é o ao vivo.*
+*Ali morre toda a fachada.*
+
+
+
+__________________________________________
+
+
+
  
 
 <div style="margin-top: 40px; padding: 30px 25px; border-top: 2px solid #8c6239; background-color: #fcfbfa; font-family: 'Georgia', serif; color: #2c2c2c; line-height: 1.7;">
