@@ -124,7 +124,168 @@ ___________________________________________
 
 
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Teoria do Bode Expiatório do Fascismo - Sir Mário Honorário</title>
+    <!-- Importação de fontes com estilo gótico/medieval do Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Uncial+Antiqua&family=Cinzel:wght@500;700&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
 
+        body {
+            background-color: #12100e;
+            color: #2c221e;
+            font-family: 'IM Fell English', serif;
+            margin: 0;
+            padding: 1rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .manuscript-container {
+            background-color: #f4ecd8;
+            background-image: radial-gradient(circle, rgba(0,0,0,0.03) 0%, rgba(0,0,0,0.15) 100%);
+            border: 4px solid #8c6d46;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.7), inset 0 0 40px rgba(140, 109, 70, 0.2);
+            width: 100%;
+            max-width: 750px;
+            padding: 1.5rem;
+            position: relative;
+            border-radius: 4px;
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* Elementos decorativos simulando margens de caderno/pergaminho */
+        .manuscript-container::before {
+            content: "";
+            position: absolute;
+            top: 6px;
+            left: 6px;
+            right: 6px;
+            bottom: 6px;
+            border: 1px dashed rgba(140, 109, 70, 0.4);
+            pointer-events: none;
+        }
+
+        .header-authors {
+            text-align: center;
+            font-family: 'Cinzel', serif;
+            font-size: 0.8rem;
+            letter-spacing: 1px;
+            color: #5c1d1d;
+            margin-bottom: 1.5rem;
+            border-bottom: 2px solid #8c6d46;
+            padding-bottom: 0.8rem;
+        }
+
+        .author-tag {
+            display: inline-block;
+            border: 1px solid #5c1d1d;
+            padding: 3px 8px;
+            margin: 3px;
+            border-radius: 10px;
+            background: rgba(92, 29, 29, 0.05);
+            font-weight: 700;
+        }
+
+        h1 {
+            font-family: 'Uncial Antiqua', cursive;
+            text-align: center;
+            font-size: 1.4rem;
+            color: #5c1d1d;
+            margin-bottom: 1.5rem;
+            line-height: 1.3;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .content {
+            font-size: 1.1rem;
+            line-height: 1.7;
+            text-align: justify;
+        }
+
+        .content p {
+            margin-bottom: 1.2rem;
+            text-indent: 1.5rem;
+        }
+
+        .content p:first-of-type {
+            text-indent: 0;
+        }
+
+        .signature {
+            margin-top: 2rem;
+            text-align: right;
+            font-family: 'Cinzel', serif;
+            font-weight: 700;
+            font-size: 1rem;
+            color: #5c1d1d;
+            letter-spacing: 1px;
+            border-top: 1px solid #8c6d46;
+            padding-top: 0.8rem;
+        }
+
+        /* Ajustes responsivos para telas médias e maiores (Desktops / Tablets) */
+        @media (min-width: 600px) {
+            body {
+                padding: 2rem;
+            }
+            .manuscript-container {
+                padding: 3rem 2.5rem;
+            }
+            .header-authors {
+                font-size: 0.95rem;
+                letter-spacing: 2px;
+            }
+            h1 {
+                font-size: 1.8rem;
+            }
+            .content {
+                font-size: 1.25rem;
+            }
+            .signature {
+                font-size: 1.2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="manuscript-container">
+        <div class="header-authors">
+            <span class="author-tag">THEODOR ADORNO</span>
+            <span class="author-tag">HANNAH ARENDT</span>
+            <span class="author-tag">WILHELM REICH</span>
+        </div>
+
+        <h1>A Teoria do Bode Expiatório do Fascismo</h1>
+
+        <div class="content">
+            <p>Para desviar o real motivo da crise econômica, que se concentra nas vantagens e facilidades ao topo da hierarquia financeira e do poder, se cria um inimigo interno:</p>
+            
+            <p><strong>1.</strong> No caso do Brasil, ressuscitam o fantasma do comunismo, o sistema sequer existiu, ou existe como poder vigente no Brasil. É usado qual fantasma abstrato, para convencer o povo, com base na revoltá com os preços, a inflação, os impostos.</p>
+            
+            <p><strong>2.</strong> O segundo fantasma — as minorias — aí eles obtêm o "plano perfeito", associam que os mais pobres, são vadios, e que sobreviveriam com benefícios, provindos de dinheiro do contribuinte.</p>
+            
+            <p>Tudo para desviar o foco dos dividendos, e pensões altas, que desviam mesmo da economia nacional.</p>
+        </div>
+
+        <div class="signature">
+            SIR MÁRIO HONORÁRIO
+        </div>
+    </div>
+
+</body>
+</html>
 
           
 
