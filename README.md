@@ -1,7 +1,3 @@
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7350343912863847"
-     crossorigin="anonymous"></script>
-
-
 
 <div style="font-family: Georgia, serif; font-size: 1.1rem; line-height: 1.7; color: #222; max-width: 800px; margin: 0 auto; padding: 20px;">
     
