@@ -1,7 +1,7 @@
 
 <div style="text-align: center; margin: 30px 0;">
   <a href="mailto:antunezmariochevalier@gmail.com" style="background-color: #24292e; color: #ffffff; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; font-weight: 600; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    Fale Comigo (E-mail Direto)
+    Contato
   </a>
 </div>
 
